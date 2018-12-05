@@ -1,0 +1,7793 @@
+digraph regression_tree {
+	node [color=lightblue2 style=filled]
+	size="6,6"
+	"latitude
+43.63200" -> "latitude
+-3.48700"
+	"latitude
+-3.48700" -> "latitude
+-17.54100"
+	"latitude
+-17.54100" -> "depth
+29.00000"
+	"depth
+29.00000" -> "depth
+15.00000"
+	"depth
+15.00000" -> "latitude
+-45.19000"
+	"latitude
+-45.19000" -> "latitude
+-56.10200"
+	"latitude
+-56.10200" -> "latitude
+-60.27380"
+	"latitude
+-60.27380" -> "latitude
+-60.85700"
+	"latitude
+-60.85700" -> "latitude
+-62.87700"
+	"latitude
+-62.87700" -> "hoja N39"
+	"latitude
+-62.87700" -> "latitude
+-61.54200"
+	"latitude
+-61.54200" -> "hoja N40"
+	"latitude
+-61.54200" -> "latitude
+-60.95700"
+	"latitude
+-60.95700" -> "hoja N41"
+	"latitude
+-60.95700" -> "hoja N42"
+	"latitude
+-60.85700" -> "latitude
+-60.43700"
+	"latitude
+-60.43700" -> "latitude
+-60.77400"
+	"latitude
+-60.77400" -> "hoja N43"
+	"latitude
+-60.77400" -> "latitude
+-60.72800"
+	"latitude
+-60.72800" -> "hoja N44"
+	"latitude
+-60.72800" -> "latitude
+-60.59700"
+	"latitude
+-60.59700" -> "hoja N45"
+	"latitude
+-60.59700" -> "hoja N46"
+	"latitude
+-60.43700" -> "hoja N47"
+	"latitude
+-60.27380" -> "latitude
+-60.21300"
+	"latitude
+-60.21300" -> "hoja N48"
+	"latitude
+-60.21300" -> "latitude
+-60.16700"
+	"latitude
+-60.16700" -> "hoja N49"
+	"latitude
+-60.16700" -> "latitude
+-59.38400"
+	"latitude
+-59.38400" -> "hoja N50"
+	"latitude
+-59.38400" -> "latitude
+-59.09200"
+	"latitude
+-59.09200" -> "hoja N51"
+	"latitude
+-59.09200" -> "latitude
+-58.49500"
+	"latitude
+-58.49500" -> "hoja N52"
+	"latitude
+-58.49500" -> "latitude
+-58.22700"
+	"latitude
+-58.22700" -> "hoja N53"
+	"latitude
+-58.22700" -> "latitude
+-58.01500"
+	"latitude
+-58.01500" -> "hoja N54"
+	"latitude
+-58.01500" -> "latitude
+-57.72400"
+	"latitude
+-57.72400" -> "hoja N55"
+	"latitude
+-57.72400" -> "latitude
+-57.33500"
+	"latitude
+-57.33500" -> "hoja N56"
+	"latitude
+-57.33500" -> "latitude
+-56.72500"
+	"latitude
+-56.72500" -> "hoja N57"
+	"latitude
+-56.72500" -> "latitude
+-56.52600"
+	"latitude
+-56.52600" -> "hoja N58"
+	"latitude
+-56.52600" -> "latitude
+-56.41500"
+	"latitude
+-56.41500" -> "hoja N59"
+	"latitude
+-56.41500" -> "hoja N60"
+	"latitude
+-56.10200" -> "latitude
+-55.37000"
+	"latitude
+-55.37000" -> "latitude
+-56.04700"
+	"latitude
+-56.04700" -> "hoja N61"
+	"latitude
+-56.04700" -> "latitude
+-55.94500"
+	"latitude
+-55.94500" -> "hoja N62"
+	"latitude
+-55.94500" -> "latitude
+-55.83500"
+	"latitude
+-55.83500" -> "hoja N63"
+	"latitude
+-55.83500" -> "latitude
+-55.62700"
+	"latitude
+-55.62700" -> "hoja N64"
+	"latitude
+-55.62700" -> "hoja N65"
+	"latitude
+-55.37000" -> "longitude
+2.07300"
+	"longitude
+2.07300" -> "latitude
+-53.94510"
+	"latitude
+-53.94510" -> "latitude
+-54.97600"
+	"latitude
+-54.97600" -> "hoja N66"
+	"latitude
+-54.97600" -> "latitude
+-54.47600"
+	"latitude
+-54.47600" -> "hoja N67"
+	"latitude
+-54.47600" -> "hoja N68"
+	"latitude
+-53.94510" -> "latitude
+-53.91100"
+	"latitude
+-53.91100" -> "hoja N69"
+	"latitude
+-53.91100" -> "hoja N70"
+	"longitude
+2.07300" -> "latitude
+-48.31400"
+	"latitude
+-48.31400" -> "latitude
+-52.51500"
+	"latitude
+-52.51500" -> "latitude
+-54.58800"
+	"latitude
+-54.58800" -> "hoja N71"
+	"latitude
+-54.58800" -> "latitude
+-54.26320"
+	"latitude
+-54.26320" -> "hoja N72"
+	"latitude
+-54.26320" -> "latitude
+-53.98300"
+	"latitude
+-53.98300" -> "hoja N73"
+	"latitude
+-53.98300" -> "latitude
+-53.49670"
+	"latitude
+-53.49670" -> "hoja N74"
+	"latitude
+-53.49670" -> "hoja N75"
+	"latitude
+-52.51500" -> "longitude
+161.34500"
+	"longitude
+161.34500" -> "longitude
+160.51300"
+	"longitude
+160.51300" -> "latitude
+-51.42200"
+	"latitude
+-51.42200" -> "hoja N76"
+	"latitude
+-51.42200" -> "hoja N77"
+	"longitude
+160.51300" -> "hoja N78"
+	"longitude
+161.34500" -> "hoja N79"
+	"latitude
+-48.31400" -> "latitude
+-46.67600"
+	"latitude
+-46.67600" -> "hoja N80"
+	"latitude
+-46.67600" -> "latitude
+-45.67700"
+	"latitude
+-45.67700" -> "hoja N81"
+	"latitude
+-45.67700" -> "hoja N82"
+	"latitude
+-45.19000" -> "depth
+10.00000"
+	"depth
+10.00000" -> "latitude
+-26.99900"
+	"latitude
+-26.99900" -> "latitude
+-32.79300"
+	"latitude
+-32.79300" -> "latitude
+-41.73400"
+	"latitude
+-41.73400" -> "hoja N83"
+	"latitude
+-41.73400" -> "latitude
+-40.31600"
+	"latitude
+-40.31600" -> "hoja N84"
+	"latitude
+-40.31600" -> "latitude
+-36.38300"
+	"latitude
+-36.38300" -> "hoja N85"
+	"latitude
+-36.38300" -> "hoja N86"
+	"latitude
+-32.79300" -> "latitude
+-29.68200"
+	"latitude
+-29.68200" -> "latitude
+-31.63500"
+	"latitude
+-31.63500" -> "hoja N87"
+	"latitude
+-31.63500" -> "latitude
+-30.43700"
+	"latitude
+-30.43700" -> "hoja N88"
+	"latitude
+-30.43700" -> "latitude
+-29.99200"
+	"latitude
+-29.99200" -> "hoja N89"
+	"latitude
+-29.99200" -> "hoja N90"
+	"latitude
+-29.68200" -> "hoja N91"
+	"latitude
+-26.99900" -> "latitude
+-22.25200"
+	"latitude
+-22.25200" -> "latitude
+-26.52500"
+	"latitude
+-26.52500" -> "hoja N92"
+	"latitude
+-26.52500" -> "latitude
+-24.89400"
+	"latitude
+-24.89400" -> "hoja N93"
+	"latitude
+-24.89400" -> "latitude
+-23.03900"
+	"latitude
+-23.03900" -> "hoja N94"
+	"latitude
+-23.03900" -> "hoja N95"
+	"latitude
+-22.25200" -> "latitude
+-20.62800"
+	"latitude
+-20.62800" -> "latitude
+-21.98600"
+	"latitude
+-21.98600" -> "hoja N96"
+	"latitude
+-21.98600" -> "latitude
+-21.70600"
+	"latitude
+-21.70600" -> "hoja N97"
+	"latitude
+-21.70600" -> "hoja N98"
+	"latitude
+-20.62800" -> "hoja N99"
+	"depth
+10.00000" -> "latitude
+-35.36390"
+	"latitude
+-35.36390" -> "latitude
+-44.86500"
+	"latitude
+-44.86500" -> "hoja N100"
+	"latitude
+-44.86500" -> "latitude
+-43.52200"
+	"latitude
+-43.52200" -> "hoja N101"
+	"latitude
+-43.52200" -> "latitude
+-42.81300"
+	"latitude
+-42.81300" -> "hoja N102"
+	"latitude
+-42.81300" -> "latitude
+-42.32050"
+	"latitude
+-42.32050" -> "hoja N103"
+	"latitude
+-42.32050" -> "latitude
+-41.69800"
+	"latitude
+-41.69800" -> "hoja N104"
+	"latitude
+-41.69800" -> "latitude
+-40.34400"
+	"latitude
+-40.34400" -> "hoja N105"
+	"latitude
+-40.34400" -> "latitude
+-38.60620"
+	"latitude
+-38.60620" -> "hoja N106"
+	"latitude
+-38.60620" -> "latitude
+-38.52000"
+	"latitude
+-38.52000" -> "hoja N107"
+	"latitude
+-38.52000" -> "latitude
+-36.46000"
+	"latitude
+-36.46000" -> "hoja N108"
+	"latitude
+-36.46000" -> "latitude
+-36.36010"
+	"latitude
+-36.36010" -> "hoja N109"
+	"latitude
+-36.36010" -> "latitude
+-36.25600"
+	"latitude
+-36.25600" -> "hoja N110"
+	"latitude
+-36.25600" -> "latitude
+-36.00700"
+	"latitude
+-36.00700" -> "hoja N111"
+	"latitude
+-36.00700" -> "latitude
+-35.81500"
+	"latitude
+-35.81500" -> "hoja N112"
+	"latitude
+-35.81500" -> "hoja N113"
+	"latitude
+-35.36390" -> "latitude
+-21.50270"
+	"latitude
+-21.50270" -> "latitude
+-32.98700"
+	"latitude
+-32.98700" -> "latitude
+-34.29500"
+	"latitude
+-34.29500" -> "hoja N114"
+	"latitude
+-34.29500" -> "hoja N115"
+	"latitude
+-32.98700" -> "latitude
+-29.43500"
+	"latitude
+-29.43500" -> "hoja N116"
+	"latitude
+-29.43500" -> "latitude
+-27.21100"
+	"latitude
+-27.21100" -> "hoja N117"
+	"latitude
+-27.21100" -> "hoja N118"
+	"latitude
+-21.50270" -> "hoja N119"
+	"depth
+15.00000" -> "latitude
+-30.33300"
+	"latitude
+-30.33300" -> "latitude
+-44.94800"
+	"latitude
+-44.94800" -> "latitude
+-60.60700"
+	"latitude
+-60.60700" -> "hoja N120"
+	"latitude
+-60.60700" -> "latitude
+-60.24400"
+	"latitude
+-60.24400" -> "hoja N121"
+	"latitude
+-60.24400" -> "latitude
+-60.12200"
+	"latitude
+-60.12200" -> "hoja N122"
+	"latitude
+-60.12200" -> "latitude
+-59.67400"
+	"latitude
+-59.67400" -> "hoja N123"
+	"latitude
+-59.67400" -> "latitude
+-59.23200"
+	"latitude
+-59.23200" -> "hoja N124"
+	"latitude
+-59.23200" -> "latitude
+-58.15300"
+	"latitude
+-58.15300" -> "hoja N125"
+	"latitude
+-58.15300" -> "latitude
+-57.89400"
+	"latitude
+-57.89400" -> "hoja N126"
+	"latitude
+-57.89400" -> "latitude
+-56.66500"
+	"latitude
+-56.66500" -> "hoja N127"
+	"latitude
+-56.66500" -> "latitude
+-56.34400"
+	"latitude
+-56.34400" -> "hoja N128"
+	"latitude
+-56.34400" -> "latitude
+-55.66400"
+	"latitude
+-55.66400" -> "hoja N129"
+	"latitude
+-55.66400" -> "latitude
+-55.53200"
+	"latitude
+-55.53200" -> "hoja N130"
+	"latitude
+-55.53200" -> "latitude
+-55.11200"
+	"latitude
+-55.11200" -> "hoja N131"
+	"latitude
+-55.11200" -> "latitude
+-54.07200"
+	"latitude
+-54.07200" -> "hoja N132"
+	"latitude
+-54.07200" -> "latitude
+-53.47200"
+	"latitude
+-53.47200" -> "hoja N133"
+	"latitude
+-53.47200" -> "latitude
+-52.74400"
+	"latitude
+-52.74400" -> "hoja N134"
+	"latitude
+-52.74400" -> "latitude
+-51.96400"
+	"latitude
+-51.96400" -> "hoja N135"
+	"latitude
+-51.96400" -> "latitude
+-49.86700"
+	"latitude
+-49.86700" -> "hoja N136"
+	"latitude
+-49.86700" -> "latitude
+-49.52200"
+	"latitude
+-49.52200" -> "hoja N137"
+	"latitude
+-49.52200" -> "latitude
+-49.14300"
+	"latitude
+-49.14300" -> "hoja N138"
+	"latitude
+-49.14300" -> "latitude
+-49.09400"
+	"latitude
+-49.09400" -> "hoja N139"
+	"latitude
+-49.09400" -> "latitude
+-48.70700"
+	"latitude
+-48.70700" -> "hoja N140"
+	"latitude
+-48.70700" -> "latitude
+-45.78500"
+	"latitude
+-45.78500" -> "hoja N141"
+	"latitude
+-45.78500" -> "latitude
+-45.38300"
+	"latitude
+-45.38300" -> "hoja N142"
+	"latitude
+-45.38300" -> "hoja N143"
+	"latitude
+-44.94800" -> "latitude
+-38.14300"
+	"latitude
+-38.14300" -> "longitude
+-74.36800"
+	"longitude
+-74.36800" -> "latitude
+-43.80000"
+	"latitude
+-43.80000" -> "hoja N144"
+	"latitude
+-43.80000" -> "latitude
+-41.42100"
+	"latitude
+-41.42100" -> "hoja N145"
+	"latitude
+-41.42100" -> "hoja N146"
+	"longitude
+-74.36800" -> "latitude
+-39.67000"
+	"latitude
+-39.67000" -> "latitude
+-41.70400"
+	"latitude
+-41.70400" -> "mag
+7.00000"
+	"mag
+7.00000" -> "latitude
+-43.35300"
+	"latitude
+-43.35300" -> "hoja N147"
+	"latitude
+-43.35300" -> "hoja N148"
+	"mag
+7.00000" -> "hoja N149"
+	"latitude
+-41.70400" -> "latitude
+-41.26100"
+	"latitude
+-41.26100" -> "hoja N150"
+	"latitude
+-41.26100" -> "latitude
+-41.12400"
+	"latitude
+-41.12400" -> "hoja N151"
+	"latitude
+-41.12400" -> "hoja N152"
+	"latitude
+-39.67000" -> "longitude
+-72.69100"
+	"longitude
+-72.69100" -> "latitude
+-38.54300"
+	"latitude
+-38.54300" -> "hoja N153"
+	"latitude
+-38.54300" -> "hoja N154"
+	"longitude
+-72.69100" -> "hoja N155"
+	"latitude
+-38.14300" -> "latitude
+-37.64780"
+	"latitude
+-37.64780" -> "latitude
+-38.06100"
+	"latitude
+-38.06100" -> "hoja N156"
+	"latitude
+-38.06100" -> "latitude
+-37.86000"
+	"latitude
+-37.86000" -> "hoja N157"
+	"latitude
+-37.86000" -> "hoja N158"
+	"latitude
+-37.64780" -> "latitude
+-33.07800"
+	"latitude
+-33.07800" -> "latitude
+-34.32600"
+	"latitude
+-34.32600" -> "longitude
+-73.23800"
+	"longitude
+-73.23800" -> "hoja N159"
+	"longitude
+-73.23800" -> "latitude
+-36.12200"
+	"latitude
+-36.12200" -> "hoja N160"
+	"latitude
+-36.12200" -> "hoja N161"
+	"latitude
+-34.32600" -> "latitude
+-33.83200"
+	"latitude
+-33.83200" -> "hoja N162"
+	"latitude
+-33.83200" -> "hoja N163"
+	"latitude
+-33.07800" -> "longitude
+-177.00700"
+	"longitude
+-177.00700" -> "hoja N164"
+	"longitude
+-177.00700" -> "latitude
+-31.67200"
+	"latitude
+-31.67200" -> "depth
+25.00000"
+	"depth
+25.00000" -> "hoja N165"
+	"depth
+25.00000" -> "hoja N166"
+	"latitude
+-31.67200" -> "latitude
+-31.56220"
+	"latitude
+-31.56220" -> "hoja N167"
+	"latitude
+-31.56220" -> "hoja N168"
+	"latitude
+-30.33300" -> "latitude
+-23.00800"
+	"latitude
+-23.00800" -> "latitude
+-29.05300"
+	"latitude
+-29.05300" -> "latitude
+-29.53900"
+	"latitude
+-29.53900" -> "latitude
+-30.22700"
+	"latitude
+-30.22700" -> "hoja N169"
+	"latitude
+-30.22700" -> "longitude
+-177.08000"
+	"longitude
+-177.08000" -> "latitude
+-29.97720"
+	"latitude
+-29.97720" -> "hoja N170"
+	"latitude
+-29.97720" -> "hoja N171"
+	"longitude
+-177.08000" -> "latitude
+-30.05800"
+	"latitude
+-30.05800" -> "hoja N172"
+	"latitude
+-30.05800" -> "hoja N173"
+	"latitude
+-29.53900" -> "latitude
+-29.31800"
+	"latitude
+-29.31800" -> "hoja N174"
+	"latitude
+-29.31800" -> "hoja N175"
+	"latitude
+-29.05300" -> "latitude
+-26.53600"
+	"latitude
+-26.53600" -> "latitude
+-28.36500"
+	"latitude
+-28.36500" -> "longitude
+-71.41700"
+	"longitude
+-71.41700" -> "hoja N176"
+	"longitude
+-71.41700" -> "hoja N177"
+	"latitude
+-28.36500" -> "latitude
+-28.31400"
+	"latitude
+-28.31400" -> "hoja N178"
+	"latitude
+-28.31400" -> "latitude
+-28.07400"
+	"latitude
+-28.07400" -> "hoja N179"
+	"latitude
+-28.07400" -> "hoja N180"
+	"latitude
+-26.53600" -> "latitude
+-23.87800"
+	"latitude
+-23.87800" -> "latitude
+-25.49400"
+	"latitude
+-25.49400" -> "hoja N181"
+	"latitude
+-25.49400" -> "hoja N182"
+	"latitude
+-23.87800" -> "latitude
+-23.07000"
+	"latitude
+-23.07000" -> "latitude
+-23.40900"
+	"latitude
+-23.40900" -> "hoja N183"
+	"latitude
+-23.40900" -> "hoja N184"
+	"latitude
+-23.07000" -> "hoja N185"
+	"latitude
+-23.00800" -> "latitude
+-20.55300"
+	"latitude
+-20.55300" -> "latitude
+-22.48500"
+	"latitude
+-22.48500" -> "latitude
+-22.75800"
+	"latitude
+-22.75800" -> "hoja N186"
+	"latitude
+-22.75800" -> "latitude
+-22.64200"
+	"latitude
+-22.64200" -> "hoja N187"
+	"latitude
+-22.64200" -> "hoja N188"
+	"latitude
+-22.48500" -> "longitude
+169.03500"
+	"longitude
+169.03500" -> "latitude
+-20.79690"
+	"latitude
+-20.79690" -> "hoja N189"
+	"latitude
+-20.79690" -> "hoja N190"
+	"longitude
+169.03500" -> "depth
+16.37000"
+	"depth
+16.37000" -> "latitude
+-22.42100"
+	"latitude
+-22.42100" -> "hoja N191"
+	"latitude
+-22.42100" -> "hoja N192"
+	"depth
+16.37000" -> "longitude
+170.10400"
+	"longitude
+170.10400" -> "hoja N193"
+	"longitude
+170.10400" -> "hoja N194"
+	"latitude
+-20.55300" -> "latitude
+-18.54600"
+	"latitude
+-18.54600" -> "latitude
+-20.12200"
+	"latitude
+-20.12200" -> "hoja N195"
+	"latitude
+-20.12200" -> "longitude
+-70.70220"
+	"longitude
+-70.70220" -> "longitude
+-173.04200"
+	"longitude
+-173.04200" -> "hoja N196"
+	"longitude
+-173.04200" -> "hoja N197"
+	"longitude
+-70.70220" -> "longitude
+168.16100"
+	"longitude
+168.16100" -> "hoja N198"
+	"longitude
+168.16100" -> "hoja N199"
+	"latitude
+-18.54600" -> "latitude
+-17.94000"
+	"latitude
+-17.94000" -> "latitude
+-18.33500"
+	"latitude
+-18.33500" -> "hoja N200"
+	"latitude
+-18.33500" -> "hoja N201"
+	"latitude
+-17.94000" -> "longitude
+167.68200"
+	"longitude
+167.68200" -> "latitude
+-17.82100"
+	"latitude
+-17.82100" -> "hoja N202"
+	"latitude
+-17.82100" -> "hoja N203"
+	"longitude
+167.68200" -> "hoja N204"
+	"depth
+29.00000" -> "depth
+185.10000"
+	"depth
+185.10000" -> "latitude
+-27.26000"
+	"latitude
+-27.26000" -> "latitude
+-53.65100"
+	"latitude
+-53.65100" -> "latitude
+-60.82300"
+	"latitude
+-60.82300" -> "hoja N205"
+	"latitude
+-60.82300" -> "latitude
+-60.06300"
+	"latitude
+-60.06300" -> "hoja N206"
+	"latitude
+-60.06300" -> "latitude
+-59.70000"
+	"latitude
+-59.70000" -> "hoja N207"
+	"latitude
+-59.70000" -> "latitude
+-59.42600"
+	"latitude
+-59.42600" -> "hoja N208"
+	"latitude
+-59.42600" -> "latitude
+-58.89300"
+	"latitude
+-58.89300" -> "hoja N209"
+	"latitude
+-58.89300" -> "latitude
+-58.28500"
+	"latitude
+-58.28500" -> "hoja N210"
+	"latitude
+-58.28500" -> "latitude
+-56.75600"
+	"latitude
+-56.75600" -> "hoja N211"
+	"latitude
+-56.75600" -> "latitude
+-56.45100"
+	"latitude
+-56.45100" -> "hoja N212"
+	"latitude
+-56.45100" -> "latitude
+-56.36200"
+	"latitude
+-56.36200" -> "hoja N213"
+	"latitude
+-56.36200" -> "latitude
+-56.24090"
+	"latitude
+-56.24090" -> "hoja N214"
+	"latitude
+-56.24090" -> "latitude
+-55.71700"
+	"latitude
+-55.71700" -> "hoja N215"
+	"latitude
+-55.71700" -> "hoja N216"
+	"latitude
+-53.65100" -> "longitude
+-72.86600"
+	"longitude
+-72.86600" -> "depth
+36.00000"
+	"depth
+36.00000" -> "depth
+34.00000"
+	"depth
+34.00000" -> "latitude
+-28.86600"
+	"latitude
+-28.86600" -> "latitude
+-32.78400"
+	"latitude
+-32.78400" -> "hoja N217"
+	"latitude
+-32.78400" -> "latitude
+-30.52900"
+	"latitude
+-30.52900" -> "hoja N218"
+	"latitude
+-30.52900" -> "latitude
+-30.23900"
+	"latitude
+-30.23900" -> "hoja N219"
+	"latitude
+-30.23900" -> "latitude
+-29.93400"
+	"latitude
+-29.93400" -> "hoja N220"
+	"latitude
+-29.93400" -> "latitude
+-29.88700"
+	"latitude
+-29.88700" -> "hoja N221"
+	"latitude
+-29.88700" -> "latitude
+-29.12200"
+	"latitude
+-29.12200" -> "hoja N222"
+	"latitude
+-29.12200" -> "hoja N223"
+	"latitude
+-28.86600" -> "hoja N224"
+	"depth
+34.00000" -> "latitude
+-32.58900"
+	"latitude
+-32.58900" -> "hoja N225"
+	"latitude
+-32.58900" -> "latitude
+-30.92800"
+	"latitude
+-30.92800" -> "hoja N226"
+	"latitude
+-30.92800" -> "latitude
+-30.41800"
+	"latitude
+-30.41800" -> "hoja N227"
+	"latitude
+-30.41800" -> "latitude
+-30.07400"
+	"latitude
+-30.07400" -> "hoja N228"
+	"latitude
+-30.07400" -> "latitude
+-29.93400"
+	"latitude
+-29.93400" -> "hoja N229"
+	"latitude
+-29.93400" -> "latitude
+-29.72300"
+	"latitude
+-29.72300" -> "hoja N230"
+	"latitude
+-29.72300" -> "latitude
+-29.21100"
+	"latitude
+-29.21100" -> "hoja N231"
+	"latitude
+-29.21100" -> "latitude
+-28.84000"
+	"latitude
+-28.84000" -> "hoja N232"
+	"latitude
+-28.84000" -> "hoja N233"
+	"depth
+36.00000" -> "latitude
+-30.79900"
+	"latitude
+-30.79900" -> "latitude
+-31.74470"
+	"latitude
+-31.74470" -> "latitude
+-37.09300"
+	"latitude
+-37.09300" -> "hoja N234"
+	"latitude
+-37.09300" -> "latitude
+-32.79500"
+	"latitude
+-32.79500" -> "hoja N235"
+	"latitude
+-32.79500" -> "hoja N236"
+	"latitude
+-31.74470" -> "hoja N237"
+	"latitude
+-30.79900" -> "latitude
+-30.62000"
+	"latitude
+-30.62000" -> "hoja N238"
+	"latitude
+-30.62000" -> "latitude
+-30.53100"
+	"latitude
+-30.53100" -> "hoja N239"
+	"latitude
+-30.53100" -> "latitude
+-30.48700"
+	"latitude
+-30.48700" -> "hoja N240"
+	"latitude
+-30.48700" -> "latitude
+-29.66600"
+	"latitude
+-29.66600" -> "hoja N241"
+	"latitude
+-29.66600" -> "hoja N242"
+	"longitude
+-72.86600" -> "latitude
+-28.54900"
+	"latitude
+-28.54900" -> "latitude
+-33.20700"
+	"latitude
+-33.20700" -> "longitude
+-71.66300"
+	"longitude
+-71.66300" -> "latitude
+-35.15500"
+	"latitude
+-35.15500" -> "latitude
+-35.68500"
+	"latitude
+-35.68500" -> "hoja N243"
+	"latitude
+-35.68500" -> "hoja N244"
+	"latitude
+-35.15500" -> "hoja N245"
+	"longitude
+-71.66300" -> "latitude
+-40.44600"
+	"latitude
+-40.44600" -> "latitude
+-48.69100"
+	"latitude
+-48.69100" -> "hoja N246"
+	"latitude
+-48.69100" -> "latitude
+-46.67500"
+	"latitude
+-46.67500" -> "hoja N247"
+	"latitude
+-46.67500" -> "hoja N248"
+	"latitude
+-40.44600" -> "longitude
+179.28800"
+	"longitude
+179.28800" -> "latitude
+-38.34300"
+	"latitude
+-38.34300" -> "hoja N249"
+	"latitude
+-38.34300" -> "latitude
+-33.87700"
+	"latitude
+-33.87700" -> "latitude
+-36.66300"
+	"latitude
+-36.66300" -> "hoja N250"
+	"latitude
+-36.66300" -> "hoja N251"
+	"latitude
+-33.87700" -> "hoja N252"
+	"longitude
+179.28800" -> "hoja N253"
+	"latitude
+-33.20700" -> "longitude
+-71.45190"
+	"longitude
+-71.45190" -> "latitude
+-32.28700"
+	"latitude
+-32.28700" -> "longitude
+-71.79300"
+	"longitude
+-71.79300" -> "hoja N254"
+	"longitude
+-71.79300" -> "hoja N255"
+	"latitude
+-32.28700" -> "hoja N256"
+	"longitude
+-71.45190" -> "latitude
+-32.52200"
+	"latitude
+-32.52200" -> "hoja N257"
+	"latitude
+-32.52200" -> "latitude
+-32.31200"
+	"latitude
+-32.31200" -> "hoja N258"
+	"latitude
+-32.31200" -> "latitude
+-32.19200"
+	"latitude
+-32.19200" -> "hoja N259"
+	"latitude
+-32.19200" -> "latitude
+-31.62260"
+	"latitude
+-31.62260" -> "hoja N260"
+	"latitude
+-31.62260" -> "latitude
+-30.93300"
+	"latitude
+-30.93300" -> "hoja N261"
+	"latitude
+-30.93300" -> "latitude
+-29.67000"
+	"latitude
+-29.67000" -> "hoja N262"
+	"latitude
+-29.67000" -> "hoja N263"
+	"latitude
+-28.54900" -> "latitude
+-28.29300"
+	"latitude
+-28.29300" -> "hoja N264"
+	"latitude
+-28.29300" -> "latitude
+-28.13500"
+	"latitude
+-28.13500" -> "hoja N265"
+	"latitude
+-28.13500" -> "latitude
+-27.95800"
+	"latitude
+-27.95800" -> "hoja N266"
+	"latitude
+-27.95800" -> "latitude
+-27.84500"
+	"latitude
+-27.84500" -> "hoja N267"
+	"latitude
+-27.84500" -> "hoja N268"
+	"latitude
+-27.26000" -> "latitude
+-21.45200"
+	"latitude
+-21.45200" -> "latitude
+-22.10100"
+	"latitude
+-22.10100" -> "latitude
+-23.80400"
+	"latitude
+-23.80400" -> "latitude
+-24.13300"
+	"latitude
+-24.13300" -> "latitude
+-25.63300"
+	"latitude
+-25.63300" -> "latitude
+-26.43200"
+	"latitude
+-26.43200" -> "latitude
+-26.75300"
+	"latitude
+-26.75300" -> "hoja N269"
+	"latitude
+-26.75300" -> "hoja N270"
+	"latitude
+-26.43200" -> "longitude
+-175.24100"
+	"longitude
+-175.24100" -> "hoja N271"
+	"longitude
+-175.24100" -> "hoja N272"
+	"latitude
+-25.63300" -> "latitude
+-24.71000"
+	"latitude
+-24.71000" -> "latitude
+-24.89300"
+	"latitude
+-24.89300" -> "hoja N273"
+	"latitude
+-24.89300" -> "longitude
+-70.56800"
+	"longitude
+-70.56800" -> "hoja N274"
+	"longitude
+-70.56800" -> "hoja N275"
+	"latitude
+-24.71000" -> "latitude
+-24.41800"
+	"latitude
+-24.41800" -> "hoja N276"
+	"latitude
+-24.41800" -> "hoja N277"
+	"latitude
+-24.13300" -> "latitude
+-23.97700"
+	"latitude
+-23.97700" -> "hoja N278"
+	"latitude
+-23.97700" -> "hoja N279"
+	"latitude
+-23.80400" -> "latitude
+-22.60600"
+	"latitude
+-22.60600" -> "depth
+45.00000"
+	"depth
+45.00000" -> "latitude
+-23.16900"
+	"latitude
+-23.16900" -> "hoja N280"
+	"latitude
+-23.16900" -> "hoja N281"
+	"depth
+45.00000" -> "latitude
+-23.46600"
+	"latitude
+-23.46600" -> "hoja N282"
+	"latitude
+-23.46600" -> "latitude
+-22.95400"
+	"latitude
+-22.95400" -> "hoja N283"
+	"latitude
+-22.95400" -> "hoja N284"
+	"latitude
+-22.60600" -> "latitude
+-22.27900"
+	"latitude
+-22.27900" -> "latitude
+-22.52300"
+	"latitude
+-22.52300" -> "hoja N285"
+	"latitude
+-22.52300" -> "latitude
+-22.50400"
+	"latitude
+-22.50400" -> "hoja N286"
+	"latitude
+-22.50400" -> "hoja N287"
+	"latitude
+-22.27900" -> "depth
+55.50000"
+	"depth
+55.50000" -> "hoja N288"
+	"depth
+55.50000" -> "hoja N289"
+	"latitude
+-22.10100" -> "latitude
+-22.02200"
+	"latitude
+-22.02200" -> "hoja N290"
+	"latitude
+-22.02200" -> "latitude
+-21.98200"
+	"latitude
+-21.98200" -> "hoja N291"
+	"latitude
+-21.98200" -> "latitude
+-21.87100"
+	"latitude
+-21.87100" -> "hoja N292"
+	"latitude
+-21.87100" -> "latitude
+-21.74300"
+	"latitude
+-21.74300" -> "hoja N293"
+	"latitude
+-21.74300" -> "latitude
+-21.70100"
+	"latitude
+-21.70100" -> "hoja N294"
+	"latitude
+-21.70100" -> "latitude
+-21.56800"
+	"latitude
+-21.56800" -> "hoja N295"
+	"latitude
+-21.56800" -> "latitude
+-21.49200"
+	"latitude
+-21.49200" -> "hoja N296"
+	"latitude
+-21.49200" -> "hoja N297"
+	"latitude
+-21.45200" -> "latitude
+-19.57600"
+	"latitude
+-19.57600" -> "latitude
+-20.07100"
+	"latitude
+-20.07100" -> "latitude
+-20.81100"
+	"latitude
+-20.81100" -> "latitude
+-21.24400"
+	"latitude
+-21.24400" -> "hoja N298"
+	"latitude
+-21.24400" -> "latitude
+-21.18200"
+	"latitude
+-21.18200" -> "hoja N299"
+	"latitude
+-21.18200" -> "hoja N300"
+	"latitude
+-20.81100" -> "latitude
+-20.50000"
+	"latitude
+-20.50000" -> "latitude
+-20.61700"
+	"latitude
+-20.61700" -> "hoja N301"
+	"latitude
+-20.61700" -> "latitude
+-20.57400"
+	"latitude
+-20.57400" -> "hoja N302"
+	"latitude
+-20.57400" -> "latitude
+-20.52000"
+	"latitude
+-20.52000" -> "hoja N303"
+	"latitude
+-20.52000" -> "hoja N304"
+	"latitude
+-20.50000" -> "latitude
+-20.23000"
+	"latitude
+-20.23000" -> "latitude
+-20.48800"
+	"latitude
+-20.48800" -> "hoja N305"
+	"latitude
+-20.48800" -> "latitude
+-20.40700"
+	"latitude
+-20.40700" -> "hoja N306"
+	"latitude
+-20.40700" -> "hoja N307"
+	"latitude
+-20.23000" -> "hoja N308"
+	"latitude
+-20.07100" -> "latitude
+-20.05900"
+	"latitude
+-20.05900" -> "hoja N309"
+	"latitude
+-20.05900" -> "latitude
+-19.98700"
+	"latitude
+-19.98700" -> "hoja N310"
+	"latitude
+-19.98700" -> "latitude
+-19.91200"
+	"latitude
+-19.91200" -> "hoja N311"
+	"latitude
+-19.91200" -> "hoja N312"
+	"latitude
+-19.57600" -> "latitude
+-18.41100"
+	"latitude
+-18.41100" -> "latitude
+-19.54400"
+	"latitude
+-19.54400" -> "hoja N313"
+	"latitude
+-19.54400" -> "latitude
+-19.51100"
+	"latitude
+-19.51100" -> "hoja N314"
+	"latitude
+-19.51100" -> "latitude
+-19.43500"
+	"latitude
+-19.43500" -> "hoja N315"
+	"latitude
+-19.43500" -> "latitude
+-19.26200"
+	"latitude
+-19.26200" -> "hoja N316"
+	"latitude
+-19.26200" -> "latitude
+-19.09100"
+	"latitude
+-19.09100" -> "hoja N317"
+	"latitude
+-19.09100" -> "latitude
+-18.98400"
+	"latitude
+-18.98400" -> "hoja N318"
+	"latitude
+-18.98400" -> "latitude
+-18.95400"
+	"latitude
+-18.95400" -> "hoja N319"
+	"latitude
+-18.95400" -> "latitude
+-18.90300"
+	"latitude
+-18.90300" -> "hoja N320"
+	"latitude
+-18.90300" -> "latitude
+-18.77100"
+	"latitude
+-18.77100" -> "hoja N321"
+	"latitude
+-18.77100" -> "latitude
+-18.68500"
+	"latitude
+-18.68500" -> "hoja N322"
+	"latitude
+-18.68500" -> "hoja N323"
+	"latitude
+-18.41100" -> "latitude
+-18.30800"
+	"latitude
+-18.30800" -> "latitude
+-18.36500"
+	"latitude
+-18.36500" -> "hoja N324"
+	"latitude
+-18.36500" -> "hoja N325"
+	"latitude
+-18.30800" -> "latitude
+-18.08300"
+	"latitude
+-18.08300" -> "hoja N326"
+	"latitude
+-18.08300" -> "latitude
+-17.89700"
+	"latitude
+-17.89700" -> "hoja N327"
+	"latitude
+-17.89700" -> "hoja N328"
+	"depth
+185.10000" -> "latitude
+-32.24100"
+	"latitude
+-32.24100" -> "hoja N329"
+	"latitude
+-32.24100" -> "latitude
+-31.96500"
+	"latitude
+-31.96500" -> "hoja N330"
+	"latitude
+-31.96500" -> "latitude
+-31.51100"
+	"latitude
+-31.51100" -> "hoja N331"
+	"latitude
+-31.51100" -> "latitude
+-31.16000"
+	"latitude
+-31.16000" -> "hoja N332"
+	"latitude
+-31.16000" -> "latitude
+-28.69200"
+	"latitude
+-28.69200" -> "hoja N333"
+	"latitude
+-28.69200" -> "latitude
+-28.50100"
+	"latitude
+-28.50100" -> "hoja N334"
+	"latitude
+-28.50100" -> "latitude
+-28.30700"
+	"latitude
+-28.30700" -> "hoja N335"
+	"latitude
+-28.30700" -> "latitude
+-28.27700"
+	"latitude
+-28.27700" -> "hoja N336"
+	"latitude
+-28.27700" -> "latitude
+-27.50700"
+	"latitude
+-27.50700" -> "hoja N337"
+	"latitude
+-27.50700" -> "latitude
+-26.80300"
+	"latitude
+-26.80300" -> "hoja N338"
+	"latitude
+-26.80300" -> "latitude
+-26.64200"
+	"latitude
+-26.64200" -> "hoja N339"
+	"latitude
+-26.64200" -> "latitude
+-26.05200"
+	"latitude
+-26.05200" -> "hoja N340"
+	"latitude
+-26.05200" -> "latitude
+-25.77500"
+	"latitude
+-25.77500" -> "hoja N341"
+	"latitude
+-25.77500" -> "latitude
+-25.51600"
+	"latitude
+-25.51600" -> "hoja N342"
+	"latitude
+-25.51600" -> "latitude
+-24.72500"
+	"latitude
+-24.72500" -> "hoja N343"
+	"latitude
+-24.72500" -> "latitude
+-23.87100"
+	"latitude
+-23.87100" -> "hoja N344"
+	"latitude
+-23.87100" -> "latitude
+-23.86130"
+	"latitude
+-23.86130" -> "hoja N345"
+	"latitude
+-23.86130" -> "latitude
+-23.59400"
+	"latitude
+-23.59400" -> "hoja N346"
+	"latitude
+-23.59400" -> "latitude
+-23.54800"
+	"latitude
+-23.54800" -> "hoja N347"
+	"latitude
+-23.54800" -> "latitude
+-23.11300"
+	"latitude
+-23.11300" -> "hoja N348"
+	"latitude
+-23.11300" -> "latitude
+-23.05200"
+	"latitude
+-23.05200" -> "hoja N349"
+	"latitude
+-23.05200" -> "latitude
+-22.76700"
+	"latitude
+-22.76700" -> "hoja N350"
+	"latitude
+-22.76700" -> "latitude
+-22.48300"
+	"latitude
+-22.48300" -> "hoja N351"
+	"latitude
+-22.48300" -> "latitude
+-22.22700"
+	"latitude
+-22.22700" -> "hoja N352"
+	"latitude
+-22.22700" -> "latitude
+-22.15100"
+	"latitude
+-22.15100" -> "hoja N353"
+	"latitude
+-22.15100" -> "latitude
+-22.03700"
+	"latitude
+-22.03700" -> "hoja N354"
+	"latitude
+-22.03700" -> "latitude
+-21.98400"
+	"latitude
+-21.98400" -> "hoja N355"
+	"latitude
+-21.98400" -> "latitude
+-21.88200"
+	"latitude
+-21.88200" -> "hoja N356"
+	"latitude
+-21.88200" -> "latitude
+-21.81900"
+	"latitude
+-21.81900" -> "hoja N357"
+	"latitude
+-21.81900" -> "latitude
+-21.69600"
+	"latitude
+-21.69600" -> "hoja N358"
+	"latitude
+-21.69600" -> "latitude
+-21.61100"
+	"latitude
+-21.61100" -> "hoja N359"
+	"latitude
+-21.61100" -> "latitude
+-21.24600"
+	"latitude
+-21.24600" -> "hoja N360"
+	"latitude
+-21.24600" -> "latitude
+-21.14900"
+	"latitude
+-21.14900" -> "hoja N361"
+	"latitude
+-21.14900" -> "latitude
+-21.08000"
+	"latitude
+-21.08000" -> "hoja N362"
+	"latitude
+-21.08000" -> "latitude
+-20.94800"
+	"latitude
+-20.94800" -> "hoja N363"
+	"latitude
+-20.94800" -> "latitude
+-20.91700"
+	"latitude
+-20.91700" -> "hoja N364"
+	"latitude
+-20.91700" -> "latitude
+-20.81010"
+	"latitude
+-20.81010" -> "hoja N365"
+	"latitude
+-20.81010" -> "latitude
+-20.69000"
+	"latitude
+-20.69000" -> "hoja N366"
+	"latitude
+-20.69000" -> "latitude
+-20.59600"
+	"latitude
+-20.59600" -> "hoja N367"
+	"latitude
+-20.59600" -> "latitude
+-20.41200"
+	"latitude
+-20.41200" -> "hoja N368"
+	"latitude
+-20.41200" -> "latitude
+-20.29200"
+	"latitude
+-20.29200" -> "hoja N369"
+	"latitude
+-20.29200" -> "latitude
+-20.19000"
+	"latitude
+-20.19000" -> "hoja N370"
+	"latitude
+-20.19000" -> "latitude
+-20.06800"
+	"latitude
+-20.06800" -> "hoja N371"
+	"latitude
+-20.06800" -> "latitude
+-20.00200"
+	"latitude
+-20.00200" -> "hoja N372"
+	"latitude
+-20.00200" -> "latitude
+-19.70500"
+	"latitude
+-19.70500" -> "hoja N373"
+	"latitude
+-19.70500" -> "hoja N374"
+	"latitude
+-17.54100" -> "latitude
+-7.78000"
+	"latitude
+-7.78000" -> "latitude
+-12.51700"
+	"latitude
+-12.51700" -> "latitude
+-16.75900"
+	"latitude
+-16.75900" -> "latitude
+-17.41600"
+	"latitude
+-17.41600" -> "hoja N375"
+	"latitude
+-17.41600" -> "latitude
+-17.37600"
+	"latitude
+-17.37600" -> "hoja N376"
+	"latitude
+-17.37600" -> "latitude
+-17.33400"
+	"latitude
+-17.33400" -> "hoja N377"
+	"latitude
+-17.33400" -> "latitude
+-17.26000"
+	"latitude
+-17.26000" -> "hoja N378"
+	"latitude
+-17.26000" -> "latitude
+-17.23900"
+	"latitude
+-17.23900" -> "hoja N379"
+	"latitude
+-17.23900" -> "latitude
+-17.17800"
+	"latitude
+-17.17800" -> "hoja N380"
+	"latitude
+-17.17800" -> "latitude
+-17.10900"
+	"latitude
+-17.10900" -> "hoja N381"
+	"latitude
+-17.10900" -> "latitude
+-17.04100"
+	"latitude
+-17.04100" -> "hoja N382"
+	"latitude
+-17.04100" -> "latitude
+-17.02100"
+	"latitude
+-17.02100" -> "hoja N383"
+	"latitude
+-17.02100" -> "latitude
+-16.97830"
+	"latitude
+-16.97830" -> "hoja N384"
+	"latitude
+-16.97830" -> "latitude
+-16.92500"
+	"latitude
+-16.92500" -> "hoja N385"
+	"latitude
+-16.92500" -> "latitude
+-16.83000"
+	"latitude
+-16.83000" -> "hoja N386"
+	"latitude
+-16.83000" -> "hoja N387"
+	"latitude
+-16.75900" -> "longitude
+166.42900"
+	"longitude
+166.42900" -> "latitude
+-13.45700"
+	"latitude
+-13.45700" -> "longitude
+-173.08500"
+	"longitude
+-173.08500" -> "latitude
+-15.86000"
+	"latitude
+-15.86000" -> "latitude
+-16.49600"
+	"latitude
+-16.49600" -> "hoja N388"
+	"latitude
+-16.49600" -> "latitude
+-16.21200"
+	"latitude
+-16.21200" -> "hoja N389"
+	"latitude
+-16.21200" -> "latitude
+-15.93400"
+	"latitude
+-15.93400" -> "hoja N390"
+	"latitude
+-15.93400" -> "hoja N391"
+	"latitude
+-15.86000" -> "latitude
+-15.21200"
+	"latitude
+-15.21200" -> "latitude
+-15.75100"
+	"latitude
+-15.75100" -> "hoja N392"
+	"latitude
+-15.75100" -> "latitude
+-15.72700"
+	"latitude
+-15.72700" -> "hoja N393"
+	"latitude
+-15.72700" -> "latitude
+-15.54700"
+	"latitude
+-15.54700" -> "hoja N394"
+	"latitude
+-15.54700" -> "latitude
+-15.46100"
+	"latitude
+-15.46100" -> "hoja N395"
+	"latitude
+-15.46100" -> "latitude
+-15.44300"
+	"latitude
+-15.44300" -> "hoja N396"
+	"latitude
+-15.44300" -> "latitude
+-15.37000"
+	"latitude
+-15.37000" -> "hoja N397"
+	"latitude
+-15.37000" -> "latitude
+-15.31970"
+	"latitude
+-15.31970" -> "hoja N398"
+	"latitude
+-15.31970" -> "latitude
+-15.26800"
+	"latitude
+-15.26800" -> "hoja N399"
+	"latitude
+-15.26800" -> "latitude
+-15.26500"
+	"latitude
+-15.26500" -> "hoja N400"
+	"latitude
+-15.26500" -> "latitude
+-15.25900"
+	"latitude
+-15.25900" -> "hoja N401"
+	"latitude
+-15.25900" -> "hoja N402"
+	"latitude
+-15.21200" -> "depth
+18.00000"
+	"depth
+18.00000" -> "latitude
+-14.98310"
+	"latitude
+-14.98310" -> "hoja N403"
+	"latitude
+-14.98310" -> "hoja N404"
+	"depth
+18.00000" -> "hoja N405"
+	"longitude
+-173.08500" -> "latitude
+-15.36400"
+	"latitude
+-15.36400" -> "longitude
+-73.98700"
+	"longitude
+-73.98700" -> "latitude
+-15.83850"
+	"latitude
+-15.83850" -> "latitude
+-16.34600"
+	"latitude
+-16.34600" -> "hoja N406"
+	"latitude
+-16.34600" -> "hoja N407"
+	"latitude
+-15.83850" -> "hoja N408"
+	"longitude
+-73.98700" -> "longitude
+-73.64100"
+	"longitude
+-73.64100" -> "hoja N409"
+	"longitude
+-73.64100" -> "latitude
+-16.50600"
+	"latitude
+-16.50600" -> "hoja N410"
+	"latitude
+-16.50600" -> "latitude
+-16.39000"
+	"latitude
+-16.39000" -> "hoja N411"
+	"latitude
+-16.39000" -> "latitude
+-15.89400"
+	"latitude
+-15.89400" -> "hoja N412"
+	"latitude
+-15.89400" -> "hoja N413"
+	"latitude
+-15.36400" -> "depth
+11.00000"
+	"depth
+11.00000" -> "hoja N414"
+	"depth
+11.00000" -> "latitude
+-15.00800"
+	"latitude
+-15.00800" -> "hoja N415"
+	"latitude
+-15.00800" -> "latitude
+-14.81900"
+	"latitude
+-14.81900" -> "hoja N416"
+	"latitude
+-14.81900" -> "latitude
+-14.53000"
+	"latitude
+-14.53000" -> "hoja N417"
+	"latitude
+-14.53000" -> "latitude
+-14.28200"
+	"latitude
+-14.28200" -> "hoja N418"
+	"latitude
+-14.28200" -> "latitude
+-14.07300"
+	"latitude
+-14.07300" -> "hoja N419"
+	"latitude
+-14.07300" -> "latitude
+-13.98700"
+	"latitude
+-13.98700" -> "hoja N420"
+	"latitude
+-13.98700" -> "latitude
+-13.74000"
+	"latitude
+-13.74000" -> "hoja N421"
+	"latitude
+-13.74000" -> "hoja N422"
+	"latitude
+-13.45700" -> "latitude
+-13.10800"
+	"latitude
+-13.10800" -> "longitude
+-72.18700"
+	"longitude
+-72.18700" -> "hoja N423"
+	"longitude
+-72.18700" -> "latitude
+-13.42600"
+	"latitude
+-13.42600" -> "hoja N424"
+	"latitude
+-13.42600" -> "hoja N425"
+	"latitude
+-13.10800" -> "latitude
+-12.59200"
+	"latitude
+-12.59200" -> "latitude
+-13.10100"
+	"latitude
+-13.10100" -> "hoja N426"
+	"latitude
+-13.10100" -> "latitude
+-12.69200"
+	"latitude
+-12.69200" -> "hoja N427"
+	"latitude
+-12.69200" -> "hoja N428"
+	"latitude
+-12.59200" -> "hoja N429"
+	"longitude
+166.42900" -> "latitude
+-14.74400"
+	"latitude
+-14.74400" -> "latitude
+-15.87100"
+	"latitude
+-15.87100" -> "latitude
+-16.43800"
+	"latitude
+-16.43800" -> "latitude
+-16.56700"
+	"latitude
+-16.56700" -> "hoja N430"
+	"latitude
+-16.56700" -> "hoja N431"
+	"latitude
+-16.43800" -> "depth
+20.00000"
+	"depth
+20.00000" -> "latitude
+-16.39500"
+	"latitude
+-16.39500" -> "hoja N432"
+	"latitude
+-16.39500" -> "latitude
+-16.27500"
+	"latitude
+-16.27500" -> "hoja N433"
+	"latitude
+-16.27500" -> "hoja N434"
+	"depth
+20.00000" -> "latitude
+-16.11700"
+	"latitude
+-16.11700" -> "hoja N435"
+	"latitude
+-16.11700" -> "hoja N436"
+	"latitude
+-15.87100" -> "latitude
+-14.99800"
+	"latitude
+-14.99800" -> "longitude
+167.37210"
+	"longitude
+167.37210" -> "latitude
+-15.58200"
+	"latitude
+-15.58200" -> "latitude
+-15.83400"
+	"latitude
+-15.83400" -> "hoja N437"
+	"latitude
+-15.83400" -> "hoja N438"
+	"latitude
+-15.58200" -> "latitude
+-15.42100"
+	"latitude
+-15.42100" -> "hoja N439"
+	"latitude
+-15.42100" -> "latitude
+-15.13000"
+	"latitude
+-15.13000" -> "hoja N440"
+	"latitude
+-15.13000" -> "hoja N441"
+	"longitude
+167.37210" -> "latitude
+-15.35500"
+	"latitude
+-15.35500" -> "latitude
+-15.81700"
+	"latitude
+-15.81700" -> "hoja N442"
+	"latitude
+-15.81700" -> "latitude
+-15.77700"
+	"latitude
+-15.77700" -> "hoja N443"
+	"latitude
+-15.77700" -> "latitude
+-15.60500"
+	"latitude
+-15.60500" -> "hoja N444"
+	"latitude
+-15.60500" -> "hoja N445"
+	"latitude
+-15.35500" -> "hoja N446"
+	"latitude
+-14.99800" -> "latitude
+-14.92000"
+	"latitude
+-14.92000" -> "hoja N447"
+	"latitude
+-14.92000" -> "hoja N448"
+	"latitude
+-14.74400" -> "latitude
+-13.87100"
+	"latitude
+-13.87100" -> "latitude
+-14.43400"
+	"latitude
+-14.43400" -> "latitude
+-14.53700"
+	"latitude
+-14.53700" -> "hoja N449"
+	"latitude
+-14.53700" -> "latitude
+-14.52100"
+	"latitude
+-14.52100" -> "hoja N450"
+	"latitude
+-14.52100" -> "hoja N451"
+	"latitude
+-14.43400" -> "longitude
+166.86300"
+	"longitude
+166.86300" -> "latitude
+-14.09200"
+	"latitude
+-14.09200" -> "hoja N452"
+	"latitude
+-14.09200" -> "latitude
+-13.98050"
+	"latitude
+-13.98050" -> "hoja N453"
+	"latitude
+-13.98050" -> "hoja N454"
+	"longitude
+166.86300" -> "latitude
+-14.23200"
+	"latitude
+-14.23200" -> "hoja N455"
+	"latitude
+-14.23200" -> "hoja N456"
+	"latitude
+-13.87100" -> "latitude
+-13.48100"
+	"latitude
+-13.48100" -> "latitude
+-13.85600"
+	"latitude
+-13.85600" -> "hoja N457"
+	"latitude
+-13.85600" -> "latitude
+-13.68200"
+	"latitude
+-13.68200" -> "hoja N458"
+	"latitude
+-13.68200" -> "latitude
+-13.59300"
+	"latitude
+-13.59300" -> "hoja N459"
+	"latitude
+-13.59300" -> "latitude
+-13.57100"
+	"latitude
+-13.57100" -> "hoja N460"
+	"latitude
+-13.57100" -> "hoja N461"
+	"latitude
+-13.48100" -> "longitude
+166.49900"
+	"longitude
+166.49900" -> "latitude
+-13.08200"
+	"latitude
+-13.08200" -> "hoja N462"
+	"latitude
+-13.08200" -> "hoja N463"
+	"longitude
+166.49900" -> "latitude
+-13.17400"
+	"latitude
+-13.17400" -> "hoja N464"
+	"latitude
+-13.17400" -> "longitude
+166.67600"
+	"longitude
+166.67600" -> "hoja N465"
+	"longitude
+166.67600" -> "hoja N466"
+	"latitude
+-12.51700" -> "latitude
+-10.36600"
+	"latitude
+-10.36600" -> "latitude
+-11.05590"
+	"latitude
+-11.05590" -> "latitude
+-12.11900"
+	"latitude
+-12.11900" -> "latitude
+-12.44200"
+	"latitude
+-12.44200" -> "hoja N467"
+	"latitude
+-12.44200" -> "latitude
+-12.41000"
+	"latitude
+-12.41000" -> "hoja N468"
+	"latitude
+-12.41000" -> "latitude
+-12.36200"
+	"latitude
+-12.36200" -> "hoja N469"
+	"latitude
+-12.36200" -> "latitude
+-12.32700"
+	"latitude
+-12.32700" -> "hoja N470"
+	"latitude
+-12.32700" -> "hoja N471"
+	"latitude
+-12.11900" -> "longitude
+162.05200"
+	"longitude
+162.05200" -> "latitude
+-11.16400"
+	"latitude
+-11.16400" -> "latitude
+-11.80300"
+	"latitude
+-11.80300" -> "hoja N472"
+	"latitude
+-11.80300" -> "latitude
+-11.63700"
+	"latitude
+-11.63700" -> "hoja N473"
+	"latitude
+-11.63700" -> "hoja N474"
+	"latitude
+-11.16400" -> "latitude
+-11.12840"
+	"latitude
+-11.12840" -> "latitude
+-11.16100"
+	"latitude
+-11.16100" -> "hoja N475"
+	"latitude
+-11.16100" -> "hoja N476"
+	"latitude
+-11.12840" -> "hoja N477"
+	"longitude
+162.05200" -> "latitude
+-11.23000"
+	"latitude
+-11.23000" -> "mag
+7.40000"
+	"mag
+7.40000" -> "latitude
+-12.03700"
+	"latitude
+-12.03700" -> "hoja N478"
+	"latitude
+-12.03700" -> "latitude
+-11.80000"
+	"latitude
+-11.80000" -> "hoja N479"
+	"latitude
+-11.80000" -> "latitude
+-11.62200"
+	"latitude
+-11.62200" -> "hoja N480"
+	"latitude
+-11.62200" -> "hoja N481"
+	"mag
+7.40000" -> "hoja N482"
+	"latitude
+-11.23000" -> "longitude
+163.70600"
+	"longitude
+163.70600" -> "latitude
+-11.15000"
+	"latitude
+-11.15000" -> "hoja N483"
+	"latitude
+-11.15000" -> "latitude
+-11.12800"
+	"latitude
+-11.12800" -> "hoja N484"
+	"latitude
+-11.12800" -> "hoja N485"
+	"longitude
+163.70600" -> "hoja N486"
+	"latitude
+-11.05590" -> "latitude
+-10.79900"
+	"latitude
+-10.79900" -> "latitude
+-11.01200"
+	"latitude
+-11.01200" -> "latitude
+-11.03700"
+	"latitude
+-11.03700" -> "hoja N487"
+	"latitude
+-11.03700" -> "hoja N488"
+	"latitude
+-11.01200" -> "longitude
+164.23000"
+	"longitude
+164.23000" -> "latitude
+-10.97200"
+	"latitude
+-10.97200" -> "hoja N489"
+	"latitude
+-10.97200" -> "latitude
+-10.96800"
+	"latitude
+-10.96800" -> "hoja N490"
+	"latitude
+-10.96800" -> "latitude
+-10.95100"
+	"latitude
+-10.95100" -> "hoja N491"
+	"latitude
+-10.95100" -> "latitude
+-10.94600"
+	"latitude
+-10.94600" -> "hoja N492"
+	"latitude
+-10.94600" -> "hoja N493"
+	"longitude
+164.23000" -> "latitude
+-10.87800"
+	"latitude
+-10.87800" -> "latitude
+-10.96900"
+	"latitude
+-10.96900" -> "hoja N494"
+	"latitude
+-10.96900" -> "hoja N495"
+	"latitude
+-10.87800" -> "hoja N496"
+	"latitude
+-10.79900" -> "depth
+40.00000"
+	"depth
+40.00000" -> "latitude
+-10.61700"
+	"latitude
+-10.61700" -> "latitude
+-10.66500"
+	"latitude
+-10.66500" -> "latitude
+-10.76900"
+	"latitude
+-10.76900" -> "hoja N497"
+	"latitude
+-10.76900" -> "hoja N498"
+	"latitude
+-10.66500" -> "hoja N499"
+	"latitude
+-10.61700" -> "depth
+18.40000"
+	"depth
+18.40000" -> "latitude
+-10.47700"
+	"latitude
+-10.47700" -> "latitude
+-10.56200"
+	"latitude
+-10.56200" -> "hoja N500"
+	"latitude
+-10.56200" -> "hoja N501"
+	"latitude
+-10.47700" -> "hoja N502"
+	"depth
+18.40000" -> "latitude
+-10.49100"
+	"latitude
+-10.49100" -> "hoja N503"
+	"latitude
+-10.49100" -> "hoja N504"
+	"depth
+40.00000" -> "longitude
+-70.77500"
+	"longitude
+-70.77500" -> "hoja N505"
+	"longitude
+-70.77500" -> "hoja N506"
+	"latitude
+-10.36600" -> "latitude
+-8.15200"
+	"latitude
+-8.15200" -> "latitude
+-9.30700"
+	"latitude
+-9.30700" -> "latitude
+-10.10800"
+	"latitude
+-10.10800" -> "latitude
+-10.35060"
+	"latitude
+-10.35060" -> "hoja N507"
+	"latitude
+-10.35060" -> "latitude
+-10.34500"
+	"latitude
+-10.34500" -> "hoja N508"
+	"latitude
+-10.34500" -> "latitude
+-10.18800"
+	"latitude
+-10.18800" -> "hoja N509"
+	"latitude
+-10.18800" -> "hoja N510"
+	"latitude
+-10.10800" -> "depth
+15.00000"
+	"depth
+15.00000" -> "longitude
+158.40300"
+	"longitude
+158.40300" -> "latitude
+-9.56900"
+	"latitude
+-9.56900" -> "hoja N511"
+	"latitude
+-9.56900" -> "hoja N512"
+	"longitude
+158.40300" -> "hoja N513"
+	"depth
+15.00000" -> "latitude
+-9.72900"
+	"latitude
+-9.72900" -> "longitude
+160.31600"
+	"longitude
+160.31600" -> "latitude
+-9.94100"
+	"latitude
+-9.94100" -> "latitude
+-10.05980"
+	"latitude
+-10.05980" -> "hoja N514"
+	"latitude
+-10.05980" -> "hoja N515"
+	"latitude
+-9.94100" -> "latitude
+-9.87300"
+	"latitude
+-9.87300" -> "hoja N516"
+	"latitude
+-9.87300" -> "hoja N517"
+	"longitude
+160.31600" -> "mag
+6.50000"
+	"mag
+6.50000" -> "latitude
+-9.88300"
+	"latitude
+-9.88300" -> "hoja N518"
+	"latitude
+-9.88300" -> "hoja N519"
+	"mag
+6.50000" -> "hoja N520"
+	"latitude
+-9.72900" -> "latitude
+-9.50400"
+	"latitude
+-9.50400" -> "hoja N521"
+	"latitude
+-9.50400" -> "hoja N522"
+	"latitude
+-9.30700" -> "longitude
+119.18000"
+	"longitude
+119.18000" -> "latitude
+-8.28100"
+	"latitude
+-8.28100" -> "latitude
+-9.01600"
+	"latitude
+-9.01600" -> "latitude
+-9.18300"
+	"latitude
+-9.18300" -> "hoja N523"
+	"latitude
+-9.18300" -> "latitude
+-9.15900"
+	"latitude
+-9.15900" -> "hoja N524"
+	"latitude
+-9.15900" -> "hoja N525"
+	"latitude
+-9.01600" -> "latitude
+-8.33500"
+	"latitude
+-8.33500" -> "hoja N526"
+	"latitude
+-8.33500" -> "hoja N527"
+	"latitude
+-8.28100" -> "latitude
+-8.25810"
+	"latitude
+-8.25810" -> "hoja N528"
+	"latitude
+-8.25810" -> "latitude
+-8.22400"
+	"latitude
+-8.22400" -> "hoja N529"
+	"latitude
+-8.22400" -> "hoja N530"
+	"longitude
+119.18000" -> "latitude
+-8.89940"
+	"latitude
+-8.89940" -> "longitude
+154.35300"
+	"longitude
+154.35300" -> "latitude
+-9.23100"
+	"latitude
+-9.23100" -> "hoja N531"
+	"latitude
+-9.23100" -> "hoja N532"
+	"longitude
+154.35300" -> "longitude
+158.44200"
+	"longitude
+158.44200" -> "hoja N533"
+	"longitude
+158.44200" -> "hoja N534"
+	"latitude
+-8.89940" -> "depth
+20.00000"
+	"depth
+20.00000" -> "longitude
+124.93000"
+	"longitude
+124.93000" -> "hoja N535"
+	"longitude
+124.93000" -> "hoja N536"
+	"depth
+20.00000" -> "depth
+27.70000"
+	"depth
+27.70000" -> "hoja N537"
+	"depth
+27.70000" -> "hoja N538"
+	"latitude
+-8.15200" -> "latitude
+-8.14100"
+	"latitude
+-8.14100" -> "hoja N539"
+	"latitude
+-8.14100" -> "latitude
+-8.12800"
+	"latitude
+-8.12800" -> "hoja N540"
+	"latitude
+-8.12800" -> "latitude
+-8.09900"
+	"latitude
+-8.09900" -> "hoja N541"
+	"latitude
+-8.09900" -> "latitude
+-8.08100"
+	"latitude
+-8.08100" -> "hoja N542"
+	"latitude
+-8.08100" -> "latitude
+-8.03100"
+	"latitude
+-8.03100" -> "hoja N543"
+	"latitude
+-8.03100" -> "hoja N544"
+	"latitude
+-7.78000" -> "latitude
+-5.58100"
+	"latitude
+-5.58100" -> "latitude
+-5.79900"
+	"latitude
+-5.79900" -> "longitude
+105.48000"
+	"longitude
+105.48000" -> "latitude
+-6.03800"
+	"latitude
+-6.03800" -> "latitude
+-6.56400"
+	"latitude
+-6.56400" -> "latitude
+-7.63100"
+	"latitude
+-7.63100" -> "hoja N545"
+	"latitude
+-7.63100" -> "latitude
+-6.98700"
+	"latitude
+-6.98700" -> "hoja N546"
+	"latitude
+-6.98700" -> "latitude
+-6.96300"
+	"latitude
+-6.96300" -> "hoja N547"
+	"latitude
+-6.96300" -> "latitude
+-6.85200"
+	"latitude
+-6.85200" -> "hoja N548"
+	"latitude
+-6.85200" -> "hoja N549"
+	"latitude
+-6.56400" -> "latitude
+-6.38900"
+	"latitude
+-6.38900" -> "hoja N550"
+	"latitude
+-6.38900" -> "hoja N551"
+	"latitude
+-6.03800" -> "hoja N552"
+	"longitude
+105.48000" -> "longitude
+147.25800"
+	"longitude
+147.25800" -> "latitude
+-7.73800"
+	"latitude
+-7.73800" -> "hoja N553"
+	"latitude
+-7.73800" -> "latitude
+-7.52300"
+	"latitude
+-7.52300" -> "hoja N554"
+	"latitude
+-7.52300" -> "latitude
+-7.50820"
+	"latitude
+-7.50820" -> "hoja N555"
+	"latitude
+-7.50820" -> "latitude
+-7.49210"
+	"latitude
+-7.49210" -> "hoja N556"
+	"latitude
+-7.49210" -> "latitude
+-7.47800"
+	"latitude
+-7.47800" -> "hoja N557"
+	"latitude
+-7.47800" -> "latitude
+-7.39300"
+	"latitude
+-7.39300" -> "hoja N558"
+	"latitude
+-7.39300" -> "latitude
+-7.35100"
+	"latitude
+-7.35100" -> "hoja N559"
+	"latitude
+-7.35100" -> "latitude
+-7.29680"
+	"latitude
+-7.29680" -> "hoja N560"
+	"latitude
+-7.29680" -> "latitude
+-7.22100"
+	"latitude
+-7.22100" -> "hoja N561"
+	"latitude
+-7.22100" -> "latitude
+-7.21680"
+	"latitude
+-7.21680" -> "hoja N562"
+	"latitude
+-7.21680" -> "latitude
+-7.20400"
+	"latitude
+-7.20400" -> "hoja N563"
+	"latitude
+-7.20400" -> "latitude
+-7.14000"
+	"latitude
+-7.14000" -> "hoja N564"
+	"latitude
+-7.14000" -> "latitude
+-7.02690"
+	"latitude
+-7.02690" -> "hoja N565"
+	"latitude
+-7.02690" -> "latitude
+-6.98500"
+	"latitude
+-6.98500" -> "hoja N566"
+	"latitude
+-6.98500" -> "latitude
+-6.95400"
+	"latitude
+-6.95400" -> "hoja N567"
+	"latitude
+-6.95400" -> "latitude
+-6.88400"
+	"latitude
+-6.88400" -> "hoja N568"
+	"latitude
+-6.88400" -> "latitude
+-6.87300"
+	"latitude
+-6.87300" -> "hoja N569"
+	"latitude
+-6.87300" -> "latitude
+-6.84500"
+	"latitude
+-6.84500" -> "hoja N570"
+	"latitude
+-6.84500" -> "latitude
+-6.80700"
+	"latitude
+-6.80700" -> "hoja N571"
+	"latitude
+-6.80700" -> "latitude
+-6.78400"
+	"latitude
+-6.78400" -> "hoja N572"
+	"latitude
+-6.78400" -> "latitude
+-6.72600"
+	"latitude
+-6.72600" -> "hoja N573"
+	"latitude
+-6.72600" -> "latitude
+-6.62200"
+	"latitude
+-6.62200" -> "hoja N574"
+	"latitude
+-6.62200" -> "latitude
+-6.58200"
+	"latitude
+-6.58200" -> "hoja N575"
+	"latitude
+-6.58200" -> "latitude
+-6.53800"
+	"latitude
+-6.53800" -> "hoja N576"
+	"latitude
+-6.53800" -> "latitude
+-6.43600"
+	"latitude
+-6.43600" -> "hoja N577"
+	"latitude
+-6.43600" -> "latitude
+-6.36200"
+	"latitude
+-6.36200" -> "hoja N578"
+	"latitude
+-6.36200" -> "latitude
+-6.24200"
+	"latitude
+-6.24200" -> "hoja N579"
+	"latitude
+-6.24200" -> "latitude
+-6.16200"
+	"latitude
+-6.16200" -> "hoja N580"
+	"latitude
+-6.16200" -> "latitude
+-6.13300"
+	"latitude
+-6.13300" -> "hoja N581"
+	"latitude
+-6.13300" -> "latitude
+-6.08100"
+	"latitude
+-6.08100" -> "hoja N582"
+	"latitude
+-6.08100" -> "latitude
+-6.06900"
+	"latitude
+-6.06900" -> "hoja N583"
+	"latitude
+-6.06900" -> "latitude
+-5.93200"
+	"latitude
+-5.93200" -> "hoja N584"
+	"latitude
+-5.93200" -> "hoja N585"
+	"longitude
+147.25800" -> "latitude
+-6.51800"
+	"latitude
+-6.51800" -> "latitude
+-6.59000"
+	"latitude
+-6.59000" -> "longitude
+154.07600"
+	"longitude
+154.07600" -> "latitude
+-7.28800"
+	"latitude
+-7.28800" -> "hoja N586"
+	"latitude
+-7.28800" -> "latitude
+-7.03900"
+	"latitude
+-7.03900" -> "hoja N587"
+	"latitude
+-7.03900" -> "hoja N588"
+	"longitude
+154.07600" -> "latitude
+-6.75470"
+	"latitude
+-6.75470" -> "depth
+17.00000"
+	"depth
+17.00000" -> "latitude
+-7.41000"
+	"latitude
+-7.41000" -> "hoja N589"
+	"latitude
+-7.41000" -> "hoja N590"
+	"depth
+17.00000" -> "depth
+24.00000"
+	"depth
+24.00000" -> "hoja N591"
+	"depth
+24.00000" -> "latitude
+-7.38300"
+	"latitude
+-7.38300" -> "mag
+6.50000"
+	"mag
+6.50000" -> "hoja N592"
+	"mag
+6.50000" -> "hoja N593"
+	"latitude
+-7.38300" -> "longitude
+155.45500"
+	"longitude
+155.45500" -> "hoja N594"
+	"longitude
+155.45500" -> "hoja N595"
+	"latitude
+-6.75470" -> "latitude
+-6.62070"
+	"latitude
+-6.62070" -> "latitude
+-6.65580"
+	"latitude
+-6.65580" -> "hoja N596"
+	"latitude
+-6.65580" -> "hoja N597"
+	"latitude
+-6.62070" -> "hoja N598"
+	"latitude
+-6.59000" -> "latitude
+-6.58400"
+	"latitude
+-6.58400" -> "hoja N599"
+	"latitude
+-6.58400" -> "latitude
+-6.57000"
+	"latitude
+-6.57000" -> "hoja N600"
+	"latitude
+-6.57000" -> "hoja N601"
+	"latitude
+-6.51800" -> "latitude
+-6.29100"
+	"latitude
+-6.29100" -> "latitude
+-6.51400"
+	"latitude
+-6.51400" -> "hoja N602"
+	"latitude
+-6.51400" -> "latitude
+-6.48500"
+	"latitude
+-6.48500" -> "hoja N603"
+	"latitude
+-6.48500" -> "latitude
+-6.47000"
+	"latitude
+-6.47000" -> "hoja N604"
+	"latitude
+-6.47000" -> "hoja N605"
+	"latitude
+-6.29100" -> "depth
+35.00000"
+	"depth
+35.00000" -> "depth
+29.00000"
+	"depth
+29.00000" -> "hoja N606"
+	"depth
+29.00000" -> "mag
+7.00000"
+	"mag
+7.00000" -> "latitude
+-6.16300"
+	"latitude
+-6.16300" -> "hoja N607"
+	"latitude
+-6.16300" -> "latitude
+-6.05600"
+	"latitude
+-6.05600" -> "hoja N608"
+	"latitude
+-6.05600" -> "latitude
+-5.95900"
+	"latitude
+-5.95900" -> "hoja N609"
+	"latitude
+-5.95900" -> "hoja N610"
+	"mag
+7.00000" -> "hoja N611"
+	"depth
+35.00000" -> "longitude
+149.74700"
+	"longitude
+149.74700" -> "latitude
+-6.02800"
+	"latitude
+-6.02800" -> "hoja N612"
+	"latitude
+-6.02800" -> "hoja N613"
+	"longitude
+149.74700" -> "depth
+64.50000"
+	"depth
+64.50000" -> "latitude
+-6.01700"
+	"latitude
+-6.01700" -> "longitude
+150.18900"
+	"longitude
+150.18900" -> "hoja N614"
+	"longitude
+150.18900" -> "hoja N615"
+	"latitude
+-6.01700" -> "hoja N616"
+	"depth
+64.50000" -> "hoja N617"
+	"latitude
+-5.79900" -> "latitude
+-5.78800"
+	"latitude
+-5.78800" -> "hoja N618"
+	"latitude
+-5.78800" -> "latitude
+-5.77700"
+	"latitude
+-5.77700" -> "hoja N619"
+	"latitude
+-5.77700" -> "latitude
+-5.77300"
+	"latitude
+-5.77300" -> "hoja N620"
+	"latitude
+-5.77300" -> "latitude
+-5.76300"
+	"latitude
+-5.76300" -> "hoja N621"
+	"latitude
+-5.76300" -> "latitude
+-5.75400"
+	"latitude
+-5.75400" -> "hoja N622"
+	"latitude
+-5.75400" -> "latitude
+-5.73300"
+	"latitude
+-5.73300" -> "hoja N623"
+	"latitude
+-5.73300" -> "latitude
+-5.72400"
+	"latitude
+-5.72400" -> "hoja N624"
+	"latitude
+-5.72400" -> "latitude
+-5.71500"
+	"latitude
+-5.71500" -> "hoja N625"
+	"latitude
+-5.71500" -> "latitude
+-5.70780"
+	"latitude
+-5.70780" -> "hoja N626"
+	"latitude
+-5.70780" -> "latitude
+-5.70600"
+	"latitude
+-5.70600" -> "hoja N627"
+	"latitude
+-5.70600" -> "latitude
+-5.69600"
+	"latitude
+-5.69600" -> "hoja N628"
+	"latitude
+-5.69600" -> "latitude
+-5.66900"
+	"latitude
+-5.66900" -> "hoja N629"
+	"latitude
+-5.66900" -> "latitude
+-5.64100"
+	"latitude
+-5.64100" -> "hoja N630"
+	"latitude
+-5.64100" -> "latitude
+-5.60400"
+	"latitude
+-5.60400" -> "hoja N631"
+	"latitude
+-5.60400" -> "hoja N632"
+	"latitude
+-5.58100" -> "longitude
+145.59800"
+	"longitude
+145.59800" -> "latitude
+-4.39000"
+	"latitude
+-4.39000" -> "latitude
+-5.44100"
+	"latitude
+-5.44100" -> "latitude
+-5.57700"
+	"latitude
+-5.57700" -> "hoja N633"
+	"latitude
+-5.57700" -> "latitude
+-5.51400"
+	"latitude
+-5.51400" -> "hoja N634"
+	"latitude
+-5.51400" -> "latitude
+-5.47300"
+	"latitude
+-5.47300" -> "hoja N635"
+	"latitude
+-5.47300" -> "hoja N636"
+	"latitude
+-5.44100" -> "longitude
+104.30200"
+	"longitude
+104.30200" -> "latitude
+-5.14100"
+	"latitude
+-5.14100" -> "latitude
+-5.40900"
+	"latitude
+-5.40900" -> "hoja N637"
+	"latitude
+-5.40900" -> "hoja N638"
+	"latitude
+-5.14100" -> "latitude
+-4.96700"
+	"latitude
+-4.96700" -> "hoja N639"
+	"latitude
+-4.96700" -> "longitude
+102.19800"
+	"longitude
+102.19800" -> "latitude
+-4.88200"
+	"latitude
+-4.88200" -> "hoja N640"
+	"latitude
+-4.88200" -> "latitude
+-4.61200"
+	"latitude
+-4.61200" -> "hoja N641"
+	"latitude
+-4.61200" -> "hoja N642"
+	"longitude
+102.19800" -> "hoja N643"
+	"longitude
+104.30200" -> "latitude
+-4.42100"
+	"latitude
+-4.42100" -> "longitude
+144.79100"
+	"longitude
+144.79100" -> "latitude
+-5.27200"
+	"latitude
+-5.27200" -> "hoja N644"
+	"latitude
+-5.27200" -> "latitude
+-5.22600"
+	"latitude
+-5.22600" -> "hoja N645"
+	"latitude
+-5.22600" -> "latitude
+-5.11900"
+	"latitude
+-5.11900" -> "hoja N646"
+	"latitude
+-5.11900" -> "latitude
+-5.01200"
+	"latitude
+-5.01200" -> "hoja N647"
+	"latitude
+-5.01200" -> "latitude
+-4.89200"
+	"latitude
+-4.89200" -> "hoja N648"
+	"latitude
+-4.89200" -> "latitude
+-4.86260"
+	"latitude
+-4.86260" -> "hoja N649"
+	"latitude
+-4.86260" -> "latitude
+-4.76000"
+	"latitude
+-4.76000" -> "hoja N650"
+	"latitude
+-4.76000" -> "latitude
+-4.51700"
+	"latitude
+-4.51700" -> "hoja N651"
+	"latitude
+-4.51700" -> "latitude
+-4.45900"
+	"latitude
+-4.45900" -> "hoja N652"
+	"latitude
+-4.45900" -> "latitude
+-4.43900"
+	"latitude
+-4.43900" -> "hoja N653"
+	"latitude
+-4.43900" -> "hoja N654"
+	"longitude
+144.79100" -> "hoja N655"
+	"latitude
+-4.42100" -> "hoja N656"
+	"latitude
+-4.39000" -> "latitude
+-3.92400"
+	"latitude
+-3.92400" -> "latitude
+-4.11000"
+	"latitude
+-4.11000" -> "latitude
+-4.19900"
+	"latitude
+-4.19900" -> "latitude
+-4.31700"
+	"latitude
+-4.31700" -> "hoja N657"
+	"latitude
+-4.31700" -> "hoja N658"
+	"latitude
+-4.19900" -> "latitude
+-4.19700"
+	"latitude
+-4.19700" -> "hoja N659"
+	"latitude
+-4.19700" -> "latitude
+-4.18300"
+	"latitude
+-4.18300" -> "hoja N660"
+	"latitude
+-4.18300" -> "hoja N661"
+	"latitude
+-4.11000" -> "latitude
+-4.07500"
+	"latitude
+-4.07500" -> "latitude
+-4.10200"
+	"latitude
+-4.10200" -> "hoja N662"
+	"latitude
+-4.10200" -> "hoja N663"
+	"latitude
+-4.07500" -> "longitude
+135.02300"
+	"longitude
+135.02300" -> "latitude
+-4.02900"
+	"latitude
+-4.02900" -> "hoja N664"
+	"latitude
+-4.02900" -> "hoja N665"
+	"longitude
+135.02300" -> "hoja N666"
+	"latitude
+-3.92400" -> "longitude
+140.23300"
+	"longitude
+140.23300" -> "longitude
+127.21400"
+	"longitude
+127.21400" -> "latitude
+-3.82700"
+	"latitude
+-3.82700" -> "hoja N667"
+	"latitude
+-3.82700" -> "latitude
+-3.76200"
+	"latitude
+-3.76200" -> "hoja N668"
+	"latitude
+-3.76200" -> "hoja N669"
+	"longitude
+127.21400" -> "hoja N670"
+	"longitude
+140.23300" -> "latitude
+-3.82000"
+	"latitude
+-3.82000" -> "hoja N671"
+	"latitude
+-3.82000" -> "latitude
+-3.66000"
+	"latitude
+-3.66000" -> "hoja N672"
+	"latitude
+-3.66000" -> "latitude
+-3.63000"
+	"latitude
+-3.63000" -> "hoja N673"
+	"latitude
+-3.63000" -> "latitude
+-3.56400"
+	"latitude
+-3.56400" -> "hoja N674"
+	"latitude
+-3.56400" -> "latitude
+-3.56200"
+	"latitude
+-3.56200" -> "hoja N675"
+	"latitude
+-3.56200" -> "hoja N676"
+	"longitude
+145.59800" -> "latitude
+-5.24600"
+	"latitude
+-5.24600" -> "latitude
+-5.46240"
+	"latitude
+-5.46240" -> "latitude
+-5.50240"
+	"latitude
+-5.50240" -> "latitude
+-5.55700"
+	"latitude
+-5.55700" -> "hoja N677"
+	"latitude
+-5.55700" -> "latitude
+-5.53210"
+	"latitude
+-5.53210" -> "hoja N678"
+	"latitude
+-5.53210" -> "hoja N679"
+	"latitude
+-5.50240" -> "longitude
+151.78100"
+	"longitude
+151.78100" -> "latitude
+-5.49500"
+	"latitude
+-5.49500" -> "hoja N680"
+	"latitude
+-5.49500" -> "hoja N681"
+	"longitude
+151.78100" -> "hoja N682"
+	"latitude
+-5.46240" -> "latitude
+-5.45800"
+	"latitude
+-5.45800" -> "hoja N683"
+	"latitude
+-5.45800" -> "latitude
+-5.42300"
+	"latitude
+-5.42300" -> "hoja N684"
+	"latitude
+-5.42300" -> "latitude
+-5.39900"
+	"latitude
+-5.39900" -> "hoja N685"
+	"latitude
+-5.39900" -> "latitude
+-5.38800"
+	"latitude
+-5.38800" -> "hoja N686"
+	"latitude
+-5.38800" -> "latitude
+-5.36800"
+	"latitude
+-5.36800" -> "hoja N687"
+	"latitude
+-5.36800" -> "latitude
+-5.34300"
+	"latitude
+-5.34300" -> "hoja N688"
+	"latitude
+-5.34300" -> "latitude
+-5.31100"
+	"latitude
+-5.31100" -> "hoja N689"
+	"latitude
+-5.31100" -> "hoja N690"
+	"latitude
+-5.24600" -> "latitude
+-4.73900"
+	"latitude
+-4.73900" -> "latitude
+-5.05900"
+	"latitude
+-5.05900" -> "latitude
+-5.23300"
+	"latitude
+-5.23300" -> "hoja N691"
+	"latitude
+-5.23300" -> "latitude
+-5.22800"
+	"latitude
+-5.22800" -> "hoja N692"
+	"latitude
+-5.22800" -> "latitude
+-5.20300"
+	"latitude
+-5.20300" -> "hoja N693"
+	"latitude
+-5.20300" -> "latitude
+-5.18700"
+	"latitude
+-5.18700" -> "hoja N694"
+	"latitude
+-5.18700" -> "latitude
+-5.15800"
+	"latitude
+-5.15800" -> "hoja N695"
+	"latitude
+-5.15800" -> "latitude
+-5.14700"
+	"latitude
+-5.14700" -> "hoja N696"
+	"latitude
+-5.14700" -> "latitude
+-5.09500"
+	"latitude
+-5.09500" -> "hoja N697"
+	"latitude
+-5.09500" -> "hoja N698"
+	"latitude
+-5.05900" -> "latitude
+-4.86600"
+	"latitude
+-4.86600" -> "latitude
+-5.01400"
+	"latitude
+-5.01400" -> "hoja N699"
+	"latitude
+-5.01400" -> "latitude
+-4.98900"
+	"latitude
+-4.98900" -> "hoja N700"
+	"latitude
+-4.98900" -> "latitude
+-4.94600"
+	"latitude
+-4.94600" -> "hoja N701"
+	"latitude
+-4.94600" -> "hoja N702"
+	"latitude
+-4.86600" -> "longitude
+152.50900"
+	"longitude
+152.50900" -> "hoja N703"
+	"longitude
+152.50900" -> "latitude
+-4.78600"
+	"latitude
+-4.78600" -> "hoja N704"
+	"latitude
+-4.78600" -> "hoja N705"
+	"latitude
+-4.73900" -> "latitude
+-3.98000"
+	"latitude
+-3.98000" -> "depth
+35.00000"
+	"depth
+35.00000" -> "latitude
+-4.43900"
+	"latitude
+-4.43900" -> "latitude
+-4.68500"
+	"latitude
+-4.68500" -> "hoja N706"
+	"latitude
+-4.68500" -> "latitude
+-4.61000"
+	"latitude
+-4.61000" -> "hoja N707"
+	"latitude
+-4.61000" -> "hoja N708"
+	"latitude
+-4.43900" -> "latitude
+-4.21400"
+	"latitude
+-4.21400" -> "hoja N709"
+	"latitude
+-4.21400" -> "hoja N710"
+	"depth
+35.00000" -> "latitude
+-4.69400"
+	"latitude
+-4.69400" -> "hoja N711"
+	"latitude
+-4.69400" -> "latitude
+-4.53900"
+	"latitude
+-4.53900" -> "latitude
+-4.66800"
+	"latitude
+-4.66800" -> "hoja N712"
+	"latitude
+-4.66800" -> "latitude
+-4.61700"
+	"latitude
+-4.61700" -> "hoja N713"
+	"latitude
+-4.61700" -> "hoja N714"
+	"latitude
+-4.53900" -> "hoja N715"
+	"latitude
+-3.98000" -> "latitude
+-3.89800"
+	"latitude
+-3.89800" -> "hoja N716"
+	"latitude
+-3.89800" -> "latitude
+-3.76800"
+	"latitude
+-3.76800" -> "hoja N717"
+	"latitude
+-3.76800" -> "hoja N718"
+	"latitude
+-3.48700" -> "latitude
+19.68200"
+	"latitude
+19.68200" -> "latitude
+7.23900"
+	"latitude
+7.23900" -> "latitude
+0.38190"
+	"latitude
+0.38190" -> "latitude
+-1.67900"
+	"latitude
+-1.67900" -> "longitude
+134.29700"
+	"longitude
+134.29700" -> "latitude
+-2.69100"
+	"latitude
+-2.69100" -> "latitude
+-3.12000"
+	"latitude
+-3.12000" -> "latitude
+-3.16900"
+	"latitude
+-3.16900" -> "latitude
+-3.34200"
+	"latitude
+-3.34200" -> "hoja N719"
+	"latitude
+-3.34200" -> "hoja N720"
+	"latitude
+-3.16900" -> "hoja N721"
+	"latitude
+-3.12000" -> "latitude
+-3.06500"
+	"latitude
+-3.06500" -> "hoja N722"
+	"latitude
+-3.06500" -> "latitude
+-3.01900"
+	"latitude
+-3.01900" -> "hoja N723"
+	"latitude
+-3.01900" -> "latitude
+-2.90000"
+	"latitude
+-2.90000" -> "hoja N724"
+	"latitude
+-2.90000" -> "latitude
+-2.80500"
+	"latitude
+-2.80500" -> "hoja N725"
+	"latitude
+-2.80500" -> "hoja N726"
+	"latitude
+-2.69100" -> "latitude
+-2.48600"
+	"latitude
+-2.48600" -> "latitude
+-2.64900"
+	"latitude
+-2.64900" -> "hoja N727"
+	"latitude
+-2.64900" -> "hoja N728"
+	"latitude
+-2.48600" -> "mag
+6.60000"
+	"mag
+6.60000" -> "latitude
+-2.08200"
+	"latitude
+-2.08200" -> "latitude
+-2.44400"
+	"latitude
+-2.44400" -> "hoja N729"
+	"latitude
+-2.44400" -> "hoja N730"
+	"latitude
+-2.08200" -> "latitude
+-1.71900"
+	"latitude
+-1.71900" -> "latitude
+-1.99700"
+	"latitude
+-1.99700" -> "hoja N731"
+	"latitude
+-1.99700" -> "hoja N732"
+	"latitude
+-1.71900" -> "hoja N733"
+	"mag
+6.60000" -> "longitude
+99.62700"
+	"longitude
+99.62700" -> "latitude
+-2.21100"
+	"latitude
+-2.21100" -> "hoja N734"
+	"latitude
+-2.21100" -> "hoja N735"
+	"longitude
+99.62700" -> "latitude
+-1.99900"
+	"latitude
+-1.99900" -> "longitude
+100.14100"
+	"longitude
+100.14100" -> "hoja N736"
+	"longitude
+100.14100" -> "hoja N737"
+	"latitude
+-1.99900" -> "hoja N738"
+	"longitude
+134.29700" -> "depth
+15.00000"
+	"depth
+15.00000" -> "latitude
+-2.96100"
+	"latitude
+-2.96100" -> "latitude
+-3.21400"
+	"latitude
+-3.21400" -> "hoja N739"
+	"latitude
+-3.21400" -> "hoja N740"
+	"latitude
+-2.96100" -> "hoja N741"
+	"depth
+15.00000" -> "latitude
+-2.17400"
+	"latitude
+-2.17400" -> "latitude
+-3.41700"
+	"latitude
+-3.41700" -> "hoja N742"
+	"latitude
+-3.41700" -> "latitude
+-3.38000"
+	"latitude
+-3.38000" -> "hoja N743"
+	"latitude
+-3.38000" -> "latitude
+-3.33000"
+	"latitude
+-3.33000" -> "hoja N744"
+	"latitude
+-3.33000" -> "latitude
+-3.30400"
+	"latitude
+-3.30400" -> "hoja N745"
+	"latitude
+-3.30400" -> "latitude
+-3.22500"
+	"latitude
+-3.22500" -> "hoja N746"
+	"latitude
+-3.22500" -> "latitude
+-3.19600"
+	"latitude
+-3.19600" -> "hoja N747"
+	"latitude
+-3.19600" -> "latitude
+-3.17600"
+	"latitude
+-3.17600" -> "hoja N748"
+	"latitude
+-3.17600" -> "latitude
+-3.14900"
+	"latitude
+-3.14900" -> "hoja N749"
+	"latitude
+-3.14900" -> "latitude
+-3.11100"
+	"latitude
+-3.11100" -> "hoja N750"
+	"latitude
+-3.11100" -> "latitude
+-3.04300"
+	"latitude
+-3.04300" -> "hoja N751"
+	"latitude
+-3.04300" -> "latitude
+-3.03600"
+	"latitude
+-3.03600" -> "hoja N752"
+	"latitude
+-3.03600" -> "latitude
+-3.00700"
+	"latitude
+-3.00700" -> "hoja N753"
+	"latitude
+-3.00700" -> "latitude
+-2.85000"
+	"latitude
+-2.85000" -> "hoja N754"
+	"latitude
+-2.85000" -> "latitude
+-2.79500"
+	"latitude
+-2.79500" -> "hoja N755"
+	"latitude
+-2.79500" -> "latitude
+-2.72000"
+	"latitude
+-2.72000" -> "hoja N756"
+	"latitude
+-2.72000" -> "latitude
+-2.64200"
+	"latitude
+-2.64200" -> "hoja N757"
+	"latitude
+-2.64200" -> "latitude
+-2.57400"
+	"latitude
+-2.57400" -> "hoja N758"
+	"latitude
+-2.57400" -> "latitude
+-2.48800"
+	"latitude
+-2.48800" -> "hoja N759"
+	"latitude
+-2.48800" -> "latitude
+-2.42400"
+	"latitude
+-2.42400" -> "hoja N760"
+	"latitude
+-2.42400" -> "latitude
+-2.33500"
+	"latitude
+-2.33500" -> "hoja N761"
+	"latitude
+-2.33500" -> "hoja N762"
+	"latitude
+-2.17400" -> "hoja N763"
+	"latitude
+-1.67900" -> "latitude
+-0.72700"
+	"latitude
+-0.72700" -> "latitude
+-1.10500"
+	"latitude
+-1.10500" -> "latitude
+-1.35200"
+	"latitude
+-1.35200" -> "mag
+6.60000"
+	"mag
+6.60000" -> "latitude
+-1.49600"
+	"latitude
+-1.49600" -> "latitude
+-1.62900"
+	"latitude
+-1.62900" -> "hoja N764"
+	"latitude
+-1.62900" -> "hoja N765"
+	"latitude
+-1.49600" -> "hoja N766"
+	"mag
+6.60000" -> "latitude
+-1.57100"
+	"latitude
+-1.57100" -> "latitude
+-1.64400"
+	"latitude
+-1.64400" -> "hoja N767"
+	"latitude
+-1.64400" -> "hoja N768"
+	"latitude
+-1.57100" -> "hoja N769"
+	"latitude
+-1.35200" -> "latitude
+-1.26600"
+	"latitude
+-1.26600" -> "latitude
+-1.33600"
+	"latitude
+-1.33600" -> "hoja N770"
+	"latitude
+-1.33600" -> "latitude
+-1.27800"
+	"latitude
+-1.27800" -> "hoja N771"
+	"latitude
+-1.27800" -> "hoja N772"
+	"latitude
+-1.26600" -> "longitude
+127.98000"
+	"longitude
+127.98000" -> "longitude
+-13.66050"
+	"longitude
+-13.66050" -> "hoja N773"
+	"longitude
+-13.66050" -> "hoja N774"
+	"longitude
+127.98000" -> "hoja N775"
+	"latitude
+-1.10500" -> "latitude
+-1.06800"
+	"latitude
+-1.06800" -> "hoja N776"
+	"latitude
+-1.06800" -> "latitude
+-1.02000"
+	"latitude
+-1.02000" -> "hoja N777"
+	"latitude
+-1.02000" -> "latitude
+-0.97200"
+	"latitude
+-0.97200" -> "hoja N778"
+	"latitude
+-0.97200" -> "latitude
+-0.92600"
+	"latitude
+-0.92600" -> "hoja N779"
+	"latitude
+-0.92600" -> "latitude
+-0.92100"
+	"latitude
+-0.92100" -> "hoja N780"
+	"latitude
+-0.92100" -> "latitude
+-0.91600"
+	"latitude
+-0.91600" -> "hoja N781"
+	"latitude
+-0.91600" -> "latitude
+-0.89300"
+	"latitude
+-0.89300" -> "hoja N782"
+	"latitude
+-0.89300" -> "latitude
+-0.86300"
+	"latitude
+-0.86300" -> "hoja N783"
+	"latitude
+-0.86300" -> "latitude
+-0.82700"
+	"latitude
+-0.82700" -> "hoja N784"
+	"latitude
+-0.82700" -> "hoja N785"
+	"latitude
+-0.72700" -> "longitude
+99.86700"
+	"longitude
+99.86700" -> "latitude
+-0.64200"
+	"latitude
+-0.64200" -> "hoja N786"
+	"latitude
+-0.64200" -> "latitude
+0.34000"
+	"latitude
+0.34000" -> "latitude
+-0.54400"
+	"latitude
+-0.54400" -> "hoja N787"
+	"latitude
+-0.54400" -> "latitude
+-0.36300"
+	"latitude
+-0.36300" -> "hoja N788"
+	"latitude
+-0.36300" -> "latitude
+-0.31700"
+	"latitude
+-0.31700" -> "hoja N789"
+	"latitude
+-0.31700" -> "latitude
+-0.26600"
+	"latitude
+-0.26600" -> "hoja N790"
+	"latitude
+-0.26600" -> "latitude
+-0.23000"
+	"latitude
+-0.23000" -> "hoja N791"
+	"latitude
+-0.23000" -> "latitude
+-0.18900"
+	"latitude
+-0.18900" -> "hoja N792"
+	"latitude
+-0.18900" -> "latitude
+-0.14700"
+	"latitude
+-0.14700" -> "hoja N793"
+	"latitude
+-0.14700" -> "latitude
+-0.08500"
+	"latitude
+-0.08500" -> "hoja N794"
+	"latitude
+-0.08500" -> "latitude
+0.00300"
+	"latitude
+0.00300" -> "hoja N795"
+	"latitude
+0.00300" -> "hoja N796"
+	"latitude
+0.34000" -> "hoja N797"
+	"longitude
+99.86700" -> "latitude
+-0.49300"
+	"latitude
+-0.49300" -> "latitude
+-0.62120"
+	"latitude
+-0.62120" -> "latitude
+-0.69100"
+	"latitude
+-0.69100" -> "hoja N798"
+	"latitude
+-0.69100" -> "hoja N799"
+	"latitude
+-0.62120" -> "latitude
+-0.56000"
+	"latitude
+-0.56000" -> "latitude
+-0.61400"
+	"latitude
+-0.61400" -> "hoja N800"
+	"latitude
+-0.61400" -> "hoja N801"
+	"latitude
+-0.56000" -> "hoja N802"
+	"latitude
+-0.49300" -> "latitude
+-0.07300"
+	"latitude
+-0.07300" -> "latitude
+-0.41200"
+	"latitude
+-0.41200" -> "hoja N803"
+	"latitude
+-0.41200" -> "latitude
+-0.09100"
+	"latitude
+-0.09100" -> "hoja N804"
+	"latitude
+-0.09100" -> "hoja N805"
+	"latitude
+-0.07300" -> "latitude
+0.10200"
+	"latitude
+0.10200" -> "hoja N806"
+	"latitude
+0.10200" -> "hoja N807"
+	"latitude
+0.38190" -> "latitude
+3.85700"
+	"latitude
+3.85700" -> "latitude
+2.38300"
+	"latitude
+2.38300" -> "latitude
+1.20100"
+	"latitude
+1.20100" -> "latitude
+1.01500"
+	"latitude
+1.01500" -> "latitude
+0.55000"
+	"latitude
+0.55000" -> "latitude
+0.42200"
+	"latitude
+0.42200" -> "hoja N808"
+	"latitude
+0.42200" -> "latitude
+0.44400"
+	"latitude
+0.44400" -> "hoja N809"
+	"latitude
+0.44400" -> "latitude
+0.48600"
+	"latitude
+0.48600" -> "hoja N810"
+	"latitude
+0.48600" -> "latitude
+0.49400"
+	"latitude
+0.49400" -> "hoja N811"
+	"latitude
+0.49400" -> "hoja N812"
+	"latitude
+0.55000" -> "longitude
+-28.43200"
+	"longitude
+-28.43200" -> "latitude
+0.91700"
+	"latitude
+0.91700" -> "hoja N813"
+	"latitude
+0.91700" -> "hoja N814"
+	"longitude
+-28.43200" -> "latitude
+0.80200"
+	"latitude
+0.80200" -> "longitude
+98.45900"
+	"longitude
+98.45900" -> "hoja N815"
+	"longitude
+98.45900" -> "hoja N816"
+	"latitude
+0.80200" -> "latitude
+0.89800"
+	"latitude
+0.89800" -> "hoja N817"
+	"latitude
+0.89800" -> "hoja N818"
+	"latitude
+1.01500" -> "latitude
+1.02000"
+	"latitude
+1.02000" -> "hoja N819"
+	"latitude
+1.02000" -> "latitude
+1.06500"
+	"latitude
+1.06500" -> "hoja N820"
+	"latitude
+1.06500" -> "latitude
+1.09300"
+	"latitude
+1.09300" -> "hoja N821"
+	"latitude
+1.09300" -> "latitude
+1.15300"
+	"latitude
+1.15300" -> "hoja N822"
+	"latitude
+1.15300" -> "latitude
+1.18100"
+	"latitude
+1.18100" -> "hoja N823"
+	"latitude
+1.18100" -> "hoja N824"
+	"latitude
+1.20100" -> "latitude
+1.41300"
+	"latitude
+1.41300" -> "latitude
+1.25300"
+	"latitude
+1.25300" -> "hoja N825"
+	"latitude
+1.25300" -> "latitude
+1.27100"
+	"latitude
+1.27100" -> "hoja N826"
+	"latitude
+1.27100" -> "latitude
+1.31000"
+	"latitude
+1.31000" -> "hoja N827"
+	"latitude
+1.31000" -> "latitude
+1.38400"
+	"latitude
+1.38400" -> "hoja N828"
+	"latitude
+1.38400" -> "hoja N829"
+	"latitude
+1.41300" -> "latitude
+1.90400"
+	"latitude
+1.90400" -> "latitude
+1.77000"
+	"latitude
+1.77000" -> "latitude
+1.59800"
+	"latitude
+1.59800" -> "hoja N830"
+	"latitude
+1.59800" -> "latitude
+1.62200"
+	"latitude
+1.62200" -> "hoja N831"
+	"latitude
+1.62200" -> "hoja N832"
+	"latitude
+1.77000" -> "latitude
+1.88500"
+	"latitude
+1.88500" -> "latitude
+1.81200"
+	"latitude
+1.81200" -> "hoja N833"
+	"latitude
+1.81200" -> "hoja N834"
+	"latitude
+1.88500" -> "hoja N835"
+	"latitude
+1.90400" -> "latitude
+2.27100"
+	"latitude
+2.27100" -> "latitude
+2.08500"
+	"latitude
+2.08500" -> "depth
+33.00000"
+	"depth
+33.00000" -> "hoja N836"
+	"depth
+33.00000" -> "hoja N837"
+	"latitude
+2.08500" -> "hoja N838"
+	"latitude
+2.27100" -> "latitude
+2.30500"
+	"latitude
+2.30500" -> "latitude
+2.29900"
+	"latitude
+2.29900" -> "hoja N839"
+	"latitude
+2.29900" -> "hoja N840"
+	"latitude
+2.30500" -> "hoja N841"
+	"latitude
+2.38300" -> "latitude
+2.49800"
+	"latitude
+2.49800" -> "hoja N842"
+	"latitude
+2.49800" -> "latitude
+2.70700"
+	"latitude
+2.70700" -> "hoja N843"
+	"latitude
+2.70700" -> "latitude
+2.82400"
+	"latitude
+2.82400" -> "hoja N844"
+	"latitude
+2.82400" -> "latitude
+2.87200"
+	"latitude
+2.87200" -> "hoja N845"
+	"latitude
+2.87200" -> "latitude
+2.91700"
+	"latitude
+2.91700" -> "hoja N846"
+	"latitude
+2.91700" -> "latitude
+2.96600"
+	"latitude
+2.96600" -> "hoja N847"
+	"latitude
+2.96600" -> "latitude
+3.66500"
+	"latitude
+3.66500" -> "hoja N848"
+	"latitude
+3.66500" -> "latitude
+3.69700"
+	"latitude
+3.69700" -> "hoja N849"
+	"latitude
+3.69700" -> "hoja N850"
+	"latitude
+3.85700" -> "latitude
+5.70800"
+	"latitude
+5.70800" -> "latitude
+4.23900"
+	"latitude
+4.23900" -> "latitude
+3.89650"
+	"latitude
+3.89650" -> "hoja N851"
+	"latitude
+3.89650" -> "latitude
+3.92900"
+	"latitude
+3.92900" -> "hoja N852"
+	"latitude
+3.92900" -> "latitude
+4.01500"
+	"latitude
+4.01500" -> "hoja N853"
+	"latitude
+4.01500" -> "hoja N854"
+	"latitude
+4.23900" -> "longitude
+126.05100"
+	"longitude
+126.05100" -> "latitude
+5.09900"
+	"latitude
+5.09900" -> "latitude
+4.47820"
+	"latitude
+4.47820" -> "hoja N855"
+	"latitude
+4.47820" -> "latitude
+4.68500"
+	"latitude
+4.68500" -> "hoja N856"
+	"latitude
+4.68500" -> "hoja N857"
+	"latitude
+5.09900" -> "latitude
+5.29300"
+	"latitude
+5.29300" -> "latitude
+5.12600"
+	"latitude
+5.12600" -> "hoja N858"
+	"latitude
+5.12600" -> "latitude
+5.16700"
+	"latitude
+5.16700" -> "hoja N859"
+	"latitude
+5.16700" -> "latitude
+5.19100"
+	"latitude
+5.19100" -> "hoja N860"
+	"latitude
+5.19100" -> "latitude
+5.22600"
+	"latitude
+5.22600" -> "hoja N861"
+	"latitude
+5.22600" -> "hoja N862"
+	"latitude
+5.29300" -> "longitude
+31.65400"
+	"longitude
+31.65400" -> "hoja N863"
+	"longitude
+31.65400" -> "latitude
+5.50430"
+	"latitude
+5.50430" -> "hoja N864"
+	"latitude
+5.50430" -> "hoja N865"
+	"longitude
+126.05100" -> "latitude
+4.47000"
+	"latitude
+4.47000" -> "hoja N866"
+	"latitude
+4.47000" -> "latitude
+4.56900"
+	"latitude
+4.56900" -> "hoja N867"
+	"latitude
+4.56900" -> "latitude
+4.67300"
+	"latitude
+4.67300" -> "hoja N868"
+	"latitude
+4.67300" -> "latitude
+4.73800"
+	"latitude
+4.73800" -> "hoja N869"
+	"latitude
+4.73800" -> "latitude
+5.12200"
+	"latitude
+5.12200" -> "hoja N870"
+	"latitude
+5.12200" -> "hoja N871"
+	"latitude
+5.70800" -> "latitude
+6.74000"
+	"latitude
+6.74000" -> "latitude
+6.03300"
+	"latitude
+6.03300" -> "latitude
+5.90450"
+	"latitude
+5.90450" -> "hoja N872"
+	"latitude
+5.90450" -> "hoja N873"
+	"latitude
+6.03300" -> "latitude
+6.15720"
+	"latitude
+6.15720" -> "hoja N874"
+	"latitude
+6.15720" -> "latitude
+6.21800"
+	"latitude
+6.21800" -> "hoja N875"
+	"latitude
+6.21800" -> "latitude
+6.24400"
+	"latitude
+6.24400" -> "hoja N876"
+	"latitude
+6.24400" -> "latitude
+6.27200"
+	"latitude
+6.27200" -> "hoja N877"
+	"latitude
+6.27200" -> "latitude
+6.36000"
+	"latitude
+6.36000" -> "hoja N878"
+	"latitude
+6.36000" -> "latitude
+6.40500"
+	"latitude
+6.40500" -> "hoja N879"
+	"latitude
+6.40500" -> "latitude
+6.54600"
+	"latitude
+6.54600" -> "hoja N880"
+	"latitude
+6.54600" -> "latitude
+6.63100"
+	"latitude
+6.63100" -> "hoja N881"
+	"latitude
+6.63100" -> "hoja N882"
+	"latitude
+6.74000" -> "latitude
+6.85000"
+	"latitude
+6.85000" -> "latitude
+6.75300"
+	"latitude
+6.75300" -> "hoja N883"
+	"latitude
+6.75300" -> "latitude
+6.77600"
+	"latitude
+6.77600" -> "hoja N884"
+	"latitude
+6.77600" -> "latitude
+6.81900"
+	"latitude
+6.81900" -> "hoja N885"
+	"latitude
+6.81900" -> "latitude
+6.83100"
+	"latitude
+6.83100" -> "hoja N886"
+	"latitude
+6.83100" -> "hoja N887"
+	"latitude
+6.85000" -> "latitude
+7.14500"
+	"latitude
+7.14500" -> "latitude
+6.91000"
+	"latitude
+6.91000" -> "hoja N888"
+	"latitude
+6.91000" -> "latitude
+6.98900"
+	"latitude
+6.98900" -> "hoja N889"
+	"latitude
+6.98900" -> "hoja N890"
+	"latitude
+7.14500" -> "longitude
+126.64500"
+	"longitude
+126.64500" -> "latitude
+7.21900"
+	"latitude
+7.21900" -> "hoja N891"
+	"latitude
+7.21900" -> "hoja N892"
+	"longitude
+126.64500" -> "hoja N893"
+	"latitude
+7.23900" -> "latitude
+13.52500"
+	"latitude
+13.52500" -> "latitude
+10.48100"
+	"latitude
+10.48100" -> "latitude
+8.82200"
+	"latitude
+8.82200" -> "latitude
+7.51200"
+	"latitude
+7.51200" -> "latitude
+7.26800"
+	"latitude
+7.26800" -> "hoja N894"
+	"latitude
+7.26800" -> "latitude
+7.33500"
+	"latitude
+7.33500" -> "hoja N895"
+	"latitude
+7.33500" -> "latitude
+7.34400"
+	"latitude
+7.34400" -> "hoja N896"
+	"latitude
+7.34400" -> "latitude
+7.40000"
+	"latitude
+7.40000" -> "hoja N897"
+	"latitude
+7.40000" -> "latitude
+7.45700"
+	"latitude
+7.45700" -> "hoja N898"
+	"latitude
+7.45700" -> "hoja N899"
+	"latitude
+7.51200" -> "longitude
+91.93600"
+	"longitude
+91.93600" -> "latitude
+8.20500"
+	"latitude
+8.20500" -> "latitude
+7.91700"
+	"latitude
+7.91700" -> "longitude
+-82.29700"
+	"longitude
+-82.29700" -> "latitude
+7.67300"
+	"latitude
+7.67300" -> "hoja N900"
+	"latitude
+7.67300" -> "hoja N901"
+	"longitude
+-82.29700" -> "hoja N902"
+	"latitude
+7.91700" -> "latitude
+7.94010"
+	"latitude
+7.94010" -> "hoja N903"
+	"latitude
+7.94010" -> "hoja N904"
+	"latitude
+8.20500" -> "longitude
+-83.99200"
+	"longitude
+-83.99200" -> "hoja N905"
+	"longitude
+-83.99200" -> "hoja N906"
+	"longitude
+91.93600" -> "latitude
+8.27000"
+	"latitude
+8.27000" -> "latitude
+7.74480"
+	"latitude
+7.74480" -> "latitude
+7.61900"
+	"latitude
+7.61900" -> "hoja N907"
+	"latitude
+7.61900" -> "hoja N908"
+	"latitude
+7.74480" -> "latitude
+8.09400"
+	"latitude
+8.09400" -> "hoja N909"
+	"latitude
+8.09400" -> "hoja N910"
+	"latitude
+8.27000" -> "latitude
+8.36100"
+	"latitude
+8.36100" -> "hoja N911"
+	"latitude
+8.36100" -> "hoja N912"
+	"latitude
+8.82200" -> "latitude
+8.95700"
+	"latitude
+8.95700" -> "latitude
+8.86400"
+	"latitude
+8.86400" -> "hoja N913"
+	"latitude
+8.86400" -> "latitude
+8.87900"
+	"latitude
+8.87900" -> "hoja N914"
+	"latitude
+8.87900" -> "hoja N915"
+	"latitude
+8.95700" -> "longitude
+40.30100"
+	"longitude
+40.30100" -> "latitude
+10.08800"
+	"latitude
+10.08800" -> "longitude
+-84.48650"
+	"longitude
+-84.48650" -> "latitude
+9.81400"
+	"latitude
+9.81400" -> "hoja N916"
+	"latitude
+9.81400" -> "hoja N917"
+	"longitude
+-84.48650" -> "latitude
+9.04400"
+	"latitude
+9.04400" -> "hoja N918"
+	"latitude
+9.04400" -> "depth
+15.00000"
+	"depth
+15.00000" -> "hoja N919"
+	"depth
+15.00000" -> "hoja N920"
+	"latitude
+10.08800" -> "latitude
+10.40200"
+	"latitude
+10.40200" -> "latitude
+10.21000"
+	"latitude
+10.21000" -> "hoja N921"
+	"latitude
+10.21000" -> "hoja N922"
+	"latitude
+10.40200" -> "hoja N923"
+	"longitude
+40.30100" -> "latitude
+9.59700"
+	"latitude
+9.59700" -> "latitude
+9.13100"
+	"latitude
+9.13100" -> "hoja N924"
+	"latitude
+9.13100" -> "latitude
+9.46300"
+	"latitude
+9.46300" -> "hoja N925"
+	"latitude
+9.46300" -> "hoja N926"
+	"latitude
+9.59700" -> "latitude
+9.75500"
+	"latitude
+9.75500" -> "hoja N927"
+	"latitude
+9.75500" -> "latitude
+9.87960"
+	"latitude
+9.87960" -> "hoja N928"
+	"latitude
+9.87960" -> "latitude
+9.92100"
+	"latitude
+9.92100" -> "hoja N929"
+	"latitude
+9.92100" -> "latitude
+10.11640"
+	"latitude
+10.11640" -> "hoja N930"
+	"latitude
+10.11640" -> "latitude
+10.22700"
+	"latitude
+10.22700" -> "hoja N931"
+	"latitude
+10.22700" -> "hoja N932"
+	"latitude
+10.48100" -> "latitude
+12.04700"
+	"latitude
+12.04700" -> "depth
+25.00000"
+	"depth
+25.00000" -> "latitude
+11.54200"
+	"latitude
+11.54200" -> "latitude
+10.59800"
+	"latitude
+10.59800" -> "hoja N933"
+	"latitude
+10.59800" -> "latitude
+10.67200"
+	"latitude
+10.67200" -> "hoja N934"
+	"latitude
+10.67200" -> "latitude
+10.70100"
+	"latitude
+10.70100" -> "hoja N935"
+	"latitude
+10.70100" -> "latitude
+10.73100"
+	"latitude
+10.73100" -> "hoja N936"
+	"latitude
+10.73100" -> "latitude
+10.79400"
+	"latitude
+10.79400" -> "hoja N937"
+	"latitude
+10.79400" -> "latitude
+10.82400"
+	"latitude
+10.82400" -> "hoja N938"
+	"latitude
+10.82400" -> "latitude
+10.88800"
+	"latitude
+10.88800" -> "hoja N939"
+	"latitude
+10.88800" -> "latitude
+11.00500"
+	"latitude
+11.00500" -> "hoja N940"
+	"latitude
+11.00500" -> "latitude
+11.25500"
+	"latitude
+11.25500" -> "hoja N941"
+	"latitude
+11.25500" -> "hoja N942"
+	"latitude
+11.54200" -> "latitude
+11.90900"
+	"latitude
+11.90900" -> "hoja N943"
+	"latitude
+11.90900" -> "hoja N944"
+	"depth
+25.00000" -> "longitude
+-85.91100"
+	"longitude
+-85.91100" -> "latitude
+11.35100"
+	"latitude
+11.35100" -> "hoja N945"
+	"latitude
+11.35100" -> "latitude
+11.42200"
+	"latitude
+11.42200" -> "hoja N946"
+	"latitude
+11.42200" -> "latitude
+11.58600"
+	"latitude
+11.58600" -> "hoja N947"
+	"latitude
+11.58600" -> "latitude
+11.66300"
+	"latitude
+11.66300" -> "hoja N948"
+	"latitude
+11.66300" -> "latitude
+11.76300"
+	"latitude
+11.76300" -> "hoja N949"
+	"latitude
+11.76300" -> "hoja N950"
+	"longitude
+-85.91100" -> "longitude
+93.47100"
+	"longitude
+93.47100" -> "latitude
+10.77310"
+	"latitude
+10.77310" -> "hoja N951"
+	"latitude
+10.77310" -> "hoja N952"
+	"longitude
+93.47100" -> "longitude
+125.48400"
+	"longitude
+125.48400" -> "hoja N953"
+	"longitude
+125.48400" -> "hoja N954"
+	"latitude
+12.04700" -> "latitude
+12.58400"
+	"latitude
+12.58400" -> "latitude
+12.22100"
+	"latitude
+12.22100" -> "latitude
+12.13900"
+	"latitude
+12.13900" -> "latitude
+12.06200"
+	"latitude
+12.06200" -> "hoja N955"
+	"latitude
+12.06200" -> "latitude
+12.11500"
+	"latitude
+12.11500" -> "hoja N956"
+	"latitude
+12.11500" -> "hoja N957"
+	"latitude
+12.13900" -> "hoja N958"
+	"latitude
+12.22100" -> "longitude
+120.41000"
+	"longitude
+120.41000" -> "longitude
+-88.12250"
+	"longitude
+-88.12250" -> "hoja N959"
+	"longitude
+-88.12250" -> "hoja N960"
+	"longitude
+120.41000" -> "latitude
+12.39000"
+	"latitude
+12.39000" -> "hoja N961"
+	"latitude
+12.39000" -> "hoja N962"
+	"latitude
+12.58400" -> "latitude
+13.02000"
+	"latitude
+13.02000" -> "latitude
+12.83300"
+	"latitude
+12.83300" -> "latitude
+12.62800"
+	"latitude
+12.62800" -> "hoja N963"
+	"latitude
+12.62800" -> "mag
+6.70000"
+	"mag
+6.70000" -> "hoja N964"
+	"mag
+6.70000" -> "hoja N965"
+	"latitude
+12.83300" -> "latitude
+12.84200"
+	"latitude
+12.84200" -> "hoja N966"
+	"latitude
+12.84200" -> "hoja N967"
+	"latitude
+13.02000" -> "latitude
+13.35600"
+	"latitude
+13.35600" -> "latitude
+13.04900"
+	"latitude
+13.04900" -> "hoja N968"
+	"latitude
+13.04900" -> "latitude
+13.08800"
+	"latitude
+13.08800" -> "hoja N969"
+	"latitude
+13.08800" -> "hoja N970"
+	"latitude
+13.35600" -> "latitude
+13.49800"
+	"latitude
+13.49800" -> "latitude
+13.38400"
+	"latitude
+13.38400" -> "hoja N971"
+	"latitude
+13.38400" -> "hoja N972"
+	"latitude
+13.49800" -> "hoja N973"
+	"latitude
+13.52500" -> "latitude
+16.84000"
+	"latitude
+16.84000" -> "latitude
+15.32400"
+	"latitude
+15.32400" -> "latitude
+14.31000"
+	"latitude
+14.31000" -> "latitude
+13.71740"
+	"latitude
+13.71740" -> "latitude
+13.63500"
+	"latitude
+13.63500" -> "hoja N974"
+	"latitude
+13.63500" -> "hoja N975"
+	"latitude
+13.71740" -> "longitude
+-90.07900"
+	"longitude
+-90.07900" -> "latitude
+13.88100"
+	"latitude
+13.88100" -> "hoja N976"
+	"latitude
+13.88100" -> "longitude
+-91.35300"
+	"longitude
+-91.35300" -> "latitude
+14.06600"
+	"latitude
+14.06600" -> "hoja N977"
+	"latitude
+14.06600" -> "hoja N978"
+	"longitude
+-91.35300" -> "hoja N979"
+	"longitude
+-90.07900" -> "latitude
+13.80900"
+	"latitude
+13.80900" -> "latitude
+13.76410"
+	"latitude
+13.76410" -> "hoja N980"
+	"latitude
+13.76410" -> "hoja N981"
+	"latitude
+13.80900" -> "latitude
+14.08700"
+	"latitude
+14.08700" -> "hoja N982"
+	"latitude
+14.08700" -> "hoja N983"
+	"latitude
+14.31000" -> "latitude
+14.54800"
+	"latitude
+14.54800" -> "latitude
+14.36200"
+	"latitude
+14.36200" -> "hoja N984"
+	"latitude
+14.36200" -> "latitude
+14.42500"
+	"latitude
+14.42500" -> "hoja N985"
+	"latitude
+14.42500" -> "hoja N986"
+	"latitude
+14.54800" -> "longitude
+-92.38000"
+	"longitude
+-92.38000" -> "latitude
+14.88800"
+	"latitude
+14.88800" -> "hoja N987"
+	"latitude
+14.88800" -> "hoja N988"
+	"longitude
+-92.38000" -> "latitude
+15.12500"
+	"latitude
+15.12500" -> "longitude
+-61.27400"
+	"longitude
+-61.27400" -> "hoja N989"
+	"longitude
+-61.27400" -> "hoja N990"
+	"latitude
+15.12500" -> "hoja N991"
+	"latitude
+15.32400" -> "latitude
+16.19000"
+	"latitude
+16.19000" -> "latitude
+15.59200"
+	"latitude
+15.59200" -> "latitude
+15.45700"
+	"latitude
+15.45700" -> "hoja N992"
+	"latitude
+15.45700" -> "hoja N993"
+	"latitude
+15.59200" -> "longitude
+-88.51600"
+	"longitude
+-88.51600" -> "latitude
+16.00400"
+	"latitude
+16.00400" -> "latitude
+15.80150"
+	"latitude
+15.80150" -> "hoja N994"
+	"latitude
+15.80150" -> "hoja N995"
+	"latitude
+16.00400" -> "mag
+7.50000"
+	"mag
+7.50000" -> "hoja N996"
+	"mag
+7.50000" -> "hoja N997"
+	"longitude
+-88.51600" -> "longitude
+-59.69400"
+	"longitude
+-59.69400" -> "hoja N998"
+	"longitude
+-59.69400" -> "latitude
+15.76600"
+	"latitude
+15.76600" -> "hoja N999"
+	"latitude
+15.76600" -> "latitude
+15.88900"
+	"latitude
+15.88900" -> "hoja N1000"
+	"latitude
+15.88900" -> "hoja N1001"
+	"latitude
+16.19000" -> "longitude
+-86.21700"
+	"longitude
+-86.21700" -> "latitude
+16.38550"
+	"latitude
+16.38550" -> "hoja N1002"
+	"latitude
+16.38550" -> "latitude
+16.71600"
+	"latitude
+16.71600" -> "latitude
+16.49300"
+	"latitude
+16.49300" -> "hoja N1003"
+	"latitude
+16.49300" -> "latitude
+16.55800"
+	"latitude
+16.55800" -> "hoja N1004"
+	"latitude
+16.55800" -> "hoja N1005"
+	"latitude
+16.71600" -> "longitude
+-98.44100"
+	"longitude
+-98.44100" -> "hoja N1006"
+	"longitude
+-98.44100" -> "hoja N1007"
+	"longitude
+-86.21700" -> "latitude
+16.47500"
+	"latitude
+16.47500" -> "hoja N1008"
+	"latitude
+16.47500" -> "hoja N1009"
+	"latitude
+16.84000" -> "latitude
+18.44300"
+	"latitude
+18.44300" -> "latitude
+17.51500"
+	"latitude
+17.51500" -> "depth
+33.00000"
+	"depth
+33.00000" -> "latitude
+17.23490"
+	"latitude
+17.23490" -> "depth
+17.09000"
+	"depth
+17.09000" -> "hoja N1010"
+	"depth
+17.09000" -> "mag
+6.80000"
+	"mag
+6.80000" -> "hoja N1011"
+	"mag
+6.80000" -> "hoja N1012"
+	"latitude
+17.23490" -> "latitude
+17.41200"
+	"latitude
+17.41200" -> "hoja N1013"
+	"latitude
+17.41200" -> "latitude
+17.46300"
+	"latitude
+17.46300" -> "hoja N1014"
+	"latitude
+17.46300" -> "hoja N1015"
+	"depth
+33.00000" -> "latitude
+17.05500"
+	"latitude
+17.05500" -> "hoja N1016"
+	"latitude
+17.05500" -> "latitude
+17.20800"
+	"latitude
+17.20800" -> "hoja N1017"
+	"latitude
+17.20800" -> "hoja N1018"
+	"latitude
+17.51500" -> "latitude
+18.23300"
+	"latitude
+18.23300" -> "latitude
+17.71700"
+	"latitude
+17.71700" -> "latitude
+17.60000"
+	"latitude
+17.60000" -> "hoja N1019"
+	"latitude
+17.60000" -> "hoja N1020"
+	"latitude
+17.71700" -> "latitude
+18.04800"
+	"latitude
+18.04800" -> "latitude
+18.00000"
+	"latitude
+18.00000" -> "hoja N1021"
+	"latitude
+18.00000" -> "hoja N1022"
+	"latitude
+18.04800" -> "latitude
+18.19000"
+	"latitude
+18.19000" -> "hoja N1023"
+	"latitude
+18.19000" -> "latitude
+18.22000"
+	"latitude
+18.22000" -> "hoja N1024"
+	"latitude
+18.22000" -> "hoja N1025"
+	"latitude
+18.23300" -> "latitude
+18.26600"
+	"latitude
+18.26600" -> "hoja N1026"
+	"latitude
+18.26600" -> "latitude
+18.27200"
+	"latitude
+18.27200" -> "hoja N1027"
+	"latitude
+18.27200" -> "hoja N1028"
+	"latitude
+18.44300" -> "latitude
+18.92400"
+	"latitude
+18.92400" -> "latitude
+18.67200"
+	"latitude
+18.67200" -> "latitude
+18.49900"
+	"latitude
+18.49900" -> "latitude
+18.46800"
+	"latitude
+18.46800" -> "hoja N1029"
+	"latitude
+18.46800" -> "hoja N1030"
+	"latitude
+18.49900" -> "latitude
+18.54290"
+	"latitude
+18.54290" -> "hoja N1031"
+	"latitude
+18.54290" -> "latitude
+18.59300"
+	"latitude
+18.59300" -> "hoja N1032"
+	"latitude
+18.59300" -> "hoja N1033"
+	"latitude
+18.67200" -> "latitude
+18.80200"
+	"latitude
+18.80200" -> "latitude
+18.72800"
+	"latitude
+18.72800" -> "hoja N1034"
+	"latitude
+18.72800" -> "latitude
+18.78700"
+	"latitude
+18.78700" -> "hoja N1035"
+	"latitude
+18.78700" -> "hoja N1036"
+	"latitude
+18.80200" -> "latitude
+18.90000"
+	"latitude
+18.90000" -> "hoja N1037"
+	"latitude
+18.90000" -> "hoja N1038"
+	"latitude
+18.92400" -> "latitude
+19.04280"
+	"latitude
+19.04280" -> "latitude
+18.94700"
+	"latitude
+18.94700" -> "hoja N1039"
+	"latitude
+18.94700" -> "latitude
+18.95800"
+	"latitude
+18.95800" -> "hoja N1040"
+	"latitude
+18.95800" -> "hoja N1041"
+	"latitude
+19.04280" -> "latitude
+19.31817"
+	"latitude
+19.31817" -> "latitude
+19.08300"
+	"latitude
+19.08300" -> "hoja N1042"
+	"latitude
+19.08300" -> "latitude
+19.21800"
+	"latitude
+19.21800" -> "hoja N1043"
+	"latitude
+19.21800" -> "hoja N1044"
+	"latitude
+19.31817" -> "latitude
+19.37600"
+	"latitude
+19.37600" -> "hoja N1045"
+	"latitude
+19.37600" -> "longitude
+-75.67700"
+	"longitude
+-75.67700" -> "hoja N1046"
+	"longitude
+-75.67700" -> "hoja N1047"
+	"latitude
+19.68200" -> "latitude
+34.80900"
+	"latitude
+34.80900" -> "latitude
+27.73000"
+	"latitude
+27.73000" -> "latitude
+26.90100"
+	"latitude
+26.90100" -> "latitude
+21.78800"
+	"latitude
+21.78800" -> "latitude
+19.91400"
+	"latitude
+19.91400" -> "hoja N1048"
+	"latitude
+19.91400" -> "latitude
+20.25300"
+	"latitude
+20.25300" -> "hoja N1049"
+	"latitude
+20.25300" -> "latitude
+20.37800"
+	"latitude
+20.37800" -> "hoja N1050"
+	"latitude
+20.37800" -> "latitude
+20.62000"
+	"latitude
+20.62000" -> "hoja N1051"
+	"latitude
+20.62000" -> "latitude
+20.71100"
+	"latitude
+20.71100" -> "hoja N1052"
+	"latitude
+20.71100" -> "latitude
+20.98100"
+	"latitude
+20.98100" -> "hoja N1053"
+	"latitude
+20.98100" -> "latitude
+21.17900"
+	"latitude
+21.17900" -> "hoja N1054"
+	"latitude
+21.17900" -> "latitude
+21.48500"
+	"latitude
+21.48500" -> "hoja N1055"
+	"latitude
+21.48500" -> "latitude
+21.60000"
+	"latitude
+21.60000" -> "hoja N1056"
+	"latitude
+21.60000" -> "hoja N1057"
+	"latitude
+21.78800" -> "longitude
+121.36800"
+	"longitude
+121.36800" -> "longitude
+120.39300"
+	"longitude
+120.39300" -> "latitude
+21.96600"
+	"latitude
+21.96600" -> "hoja N1058"
+	"latitude
+21.96600" -> "latitude
+22.56500"
+	"latitude
+22.56500" -> "hoja N1059"
+	"latitude
+22.56500" -> "latitude
+22.78900"
+	"latitude
+22.78900" -> "hoja N1060"
+	"latitude
+22.78900" -> "latitude
+23.00500"
+	"latitude
+23.00500" -> "hoja N1061"
+	"latitude
+23.00500" -> "latitude
+23.18100"
+	"latitude
+23.18100" -> "hoja N1062"
+	"latitude
+23.18100" -> "latitude
+23.32400"
+	"latitude
+23.32400" -> "hoja N1063"
+	"latitude
+23.32400" -> "latitude
+23.58200"
+	"latitude
+23.58200" -> "hoja N1064"
+	"latitude
+23.58200" -> "latitude
+23.66200"
+	"latitude
+23.66200" -> "hoja N1065"
+	"latitude
+23.66200" -> "latitude
+23.77100"
+	"latitude
+23.77100" -> "hoja N1066"
+	"latitude
+23.77100" -> "latitude
+24.05400"
+	"latitude
+24.05400" -> "hoja N1067"
+	"latitude
+24.05400" -> "latitude
+24.53100"
+	"latitude
+24.53100" -> "hoja N1068"
+	"latitude
+24.53100" -> "latitude
+24.59900"
+	"latitude
+24.59900" -> "hoja N1069"
+	"latitude
+24.59900" -> "latitude
+24.80360"
+	"latitude
+24.80360" -> "hoja N1070"
+	"latitude
+24.80360" -> "latitude
+24.91300"
+	"latitude
+24.91300" -> "hoja N1071"
+	"latitude
+24.91300" -> "latitude
+24.98700"
+	"latitude
+24.98700" -> "hoja N1072"
+	"latitude
+24.98700" -> "latitude
+25.14900"
+	"latitude
+25.14900" -> "hoja N1073"
+	"latitude
+25.14900" -> "latitude
+25.47100"
+	"latitude
+25.47100" -> "hoja N1074"
+	"latitude
+25.47100" -> "latitude
+25.71300"
+	"latitude
+25.71300" -> "hoja N1075"
+	"latitude
+25.71300" -> "latitude
+25.92900"
+	"latitude
+25.92900" -> "hoja N1076"
+	"latitude
+25.92900" -> "latitude
+26.01500"
+	"latitude
+26.01500" -> "hoja N1077"
+	"latitude
+26.01500" -> "latitude
+26.09200"
+	"latitude
+26.09200" -> "hoja N1078"
+	"latitude
+26.09200" -> "latitude
+26.15200"
+	"latitude
+26.15200" -> "hoja N1079"
+	"latitude
+26.15200" -> "latitude
+26.55600"
+	"latitude
+26.55600" -> "hoja N1080"
+	"latitude
+26.55600" -> "latitude
+26.63700"
+	"latitude
+26.63700" -> "hoja N1081"
+	"latitude
+26.63700" -> "latitude
+26.68000"
+	"latitude
+26.68000" -> "hoja N1082"
+	"latitude
+26.68000" -> "latitude
+26.81600"
+	"latitude
+26.81600" -> "hoja N1083"
+	"latitude
+26.81600" -> "hoja N1084"
+	"longitude
+120.39300" -> "mag
+6.90000"
+	"mag
+6.90000" -> "latitude
+22.33600"
+	"latitude
+22.33600" -> "hoja N1085"
+	"latitude
+22.33600" -> "latitude
+22.93750"
+	"latitude
+22.93750" -> "hoja N1086"
+	"latitude
+22.93750" -> "latitude
+23.07400"
+	"latitude
+23.07400" -> "hoja N1087"
+	"latitude
+23.07400" -> "latitude
+23.39000"
+	"latitude
+23.39000" -> "hoja N1088"
+	"latitude
+23.39000" -> "latitude
+23.72900"
+	"latitude
+23.72900" -> "hoja N1089"
+	"latitude
+23.72900" -> "hoja N1090"
+	"mag
+6.90000" -> "latitude
+23.77200"
+	"latitude
+23.77200" -> "mag
+7.10000"
+	"mag
+7.10000" -> "hoja N1091"
+	"mag
+7.10000" -> "hoja N1092"
+	"latitude
+23.77200" -> "hoja N1093"
+	"longitude
+121.36800" -> "latitude
+24.94500"
+	"latitude
+24.94500" -> "longitude
+122.00300"
+	"longitude
+122.00300" -> "latitude
+23.10700"
+	"latitude
+23.10700" -> "latitude
+22.28200"
+	"latitude
+22.28200" -> "hoja N1094"
+	"latitude
+22.28200" -> "latitude
+22.73300"
+	"latitude
+22.73300" -> "hoja N1095"
+	"latitude
+22.73300" -> "hoja N1096"
+	"latitude
+23.10700" -> "latitude
+23.77500"
+	"latitude
+23.77500" -> "depth
+22.20000"
+	"depth
+22.20000" -> "latitude
+23.72200"
+	"latitude
+23.72200" -> "hoja N1097"
+	"latitude
+23.72200" -> "hoja N1098"
+	"depth
+22.20000" -> "hoja N1099"
+	"latitude
+23.77500" -> "latitude
+23.80200"
+	"latitude
+23.80200" -> "hoja N1100"
+	"latitude
+23.80200" -> "latitude
+23.90100"
+	"latitude
+23.90100" -> "hoja N1101"
+	"latitude
+23.90100" -> "latitude
+24.06700"
+	"latitude
+24.06700" -> "hoja N1102"
+	"latitude
+24.06700" -> "latitude
+24.18800"
+	"latitude
+24.18800" -> "hoja N1103"
+	"latitude
+24.18800" -> "latitude
+24.25100"
+	"latitude
+24.25100" -> "hoja N1104"
+	"latitude
+24.25100" -> "hoja N1105"
+	"longitude
+122.00300" -> "latitude
+24.27400"
+	"latitude
+24.27400" -> "latitude
+23.35900"
+	"latitude
+23.35900" -> "mag
+6.70000"
+	"mag
+6.70000" -> "hoja N1106"
+	"mag
+6.70000" -> "latitude
+23.06400"
+	"latitude
+23.06400" -> "hoja N1107"
+	"latitude
+23.06400" -> "hoja N1108"
+	"latitude
+23.35900" -> "depth
+20.00000"
+	"depth
+20.00000" -> "hoja N1109"
+	"depth
+20.00000" -> "latitude
+24.02500"
+	"latitude
+24.02500" -> "hoja N1110"
+	"latitude
+24.02500" -> "latitude
+24.12200"
+	"latitude
+24.12200" -> "hoja N1111"
+	"latitude
+24.12200" -> "hoja N1112"
+	"latitude
+24.27400" -> "latitude
+24.41100"
+	"latitude
+24.41100" -> "depth
+32.80000"
+	"depth
+32.80000" -> "hoja N1113"
+	"depth
+32.80000" -> "hoja N1114"
+	"latitude
+24.41100" -> "hoja N1115"
+	"latitude
+24.94500" -> "longitude
+128.49000"
+	"longitude
+128.49000" -> "longitude
+125.20500"
+	"longitude
+125.20500" -> "latitude
+25.30900"
+	"latitude
+25.30900" -> "hoja N1116"
+	"latitude
+25.30900" -> "hoja N1117"
+	"longitude
+125.20500" -> "depth
+23.00000"
+	"depth
+23.00000" -> "hoja N1118"
+	"depth
+23.00000" -> "hoja N1119"
+	"longitude
+128.49000" -> "latitude
+26.81000"
+	"latitude
+26.81000" -> "latitude
+25.71500"
+	"latitude
+25.71500" -> "hoja N1120"
+	"latitude
+25.71500" -> "latitude
+26.49700"
+	"latitude
+26.49700" -> "hoja N1121"
+	"latitude
+26.49700" -> "hoja N1122"
+	"latitude
+26.81000" -> "hoja N1123"
+	"latitude
+26.90100" -> "latitude
+26.97300"
+	"latitude
+26.97300" -> "hoja N1124"
+	"latitude
+26.97300" -> "latitude
+27.09100"
+	"latitude
+27.09100" -> "hoja N1125"
+	"latitude
+27.09100" -> "latitude
+27.14600"
+	"latitude
+27.14600" -> "hoja N1126"
+	"latitude
+27.14600" -> "latitude
+27.17900"
+	"latitude
+27.17900" -> "hoja N1127"
+	"latitude
+27.17900" -> "latitude
+27.20800"
+	"latitude
+27.20800" -> "hoja N1128"
+	"latitude
+27.20800" -> "latitude
+27.29100"
+	"latitude
+27.29100" -> "hoja N1129"
+	"latitude
+27.29100" -> "latitude
+27.40700"
+	"latitude
+27.40700" -> "hoja N1130"
+	"latitude
+27.40700" -> "latitude
+27.43120"
+	"latitude
+27.43120" -> "hoja N1131"
+	"latitude
+27.43120" -> "latitude
+27.60500"
+	"latitude
+27.60500" -> "hoja N1132"
+	"latitude
+27.60500" -> "latitude
+27.64900"
+	"latitude
+27.64900" -> "hoja N1133"
+	"latitude
+27.64900" -> "hoja N1134"
+	"latitude
+27.73000" -> "latitude
+31.02017"
+	"latitude
+31.02017" -> "latitude
+29.21100"
+	"latitude
+29.21100" -> "latitude
+28.08000"
+	"latitude
+28.08000" -> "latitude
+27.79100"
+	"latitude
+27.79100" -> "hoja N1135"
+	"latitude
+27.79100" -> "latitude
+27.83860"
+	"latitude
+27.83860" -> "hoja N1136"
+	"latitude
+27.83860" -> "latitude
+27.98300"
+	"latitude
+27.98300" -> "hoja N1137"
+	"latitude
+27.98300" -> "latitude
+28.03300"
+	"latitude
+28.03300" -> "hoja N1138"
+	"latitude
+28.03300" -> "hoja N1139"
+	"latitude
+28.08000" -> "longitude
+102.25000"
+	"longitude
+102.25000" -> "latitude
+28.39700"
+	"latitude
+28.39700" -> "latitude
+28.16400"
+	"latitude
+28.16400" -> "hoja N1140"
+	"latitude
+28.16400" -> "latitude
+28.28000"
+	"latitude
+28.28000" -> "hoja N1141"
+	"latitude
+28.28000" -> "hoja N1142"
+	"latitude
+28.39700" -> "latitude
+28.77700"
+	"latitude
+28.77700" -> "latitude
+28.41500"
+	"latitude
+28.41500" -> "hoja N1143"
+	"latitude
+28.41500" -> "latitude
+28.43000"
+	"latitude
+28.43000" -> "hoja N1144"
+	"latitude
+28.43000" -> "hoja N1145"
+	"latitude
+28.77700" -> "latitude
+28.94100"
+	"latitude
+28.94100" -> "hoja N1146"
+	"latitude
+28.94100" -> "latitude
+29.03900"
+	"latitude
+29.03900" -> "hoja N1147"
+	"latitude
+29.03900" -> "hoja N1148"
+	"longitude
+102.25000" -> "latitude
+28.62700"
+	"latitude
+28.62700" -> "latitude
+28.23000"
+	"latitude
+28.23000" -> "hoja N1149"
+	"latitude
+28.23000" -> "hoja N1150"
+	"latitude
+28.62700" -> "latitude
+28.99000"
+	"latitude
+28.99000" -> "latitude
+28.85600"
+	"latitude
+28.85600" -> "hoja N1151"
+	"latitude
+28.85600" -> "hoja N1152"
+	"latitude
+28.99000" -> "hoja N1153"
+	"latitude
+29.21100" -> "latitude
+30.52000"
+	"latitude
+30.52000" -> "latitude
+29.26800"
+	"latitude
+29.26800" -> "hoja N1154"
+	"latitude
+29.26800" -> "latitude
+29.27800"
+	"latitude
+29.27800" -> "hoja N1155"
+	"latitude
+29.27800" -> "latitude
+29.32500"
+	"latitude
+29.32500" -> "hoja N1156"
+	"latitude
+29.32500" -> "latitude
+29.38400"
+	"latitude
+29.38400" -> "hoja N1157"
+	"latitude
+29.38400" -> "latitude
+29.47900"
+	"latitude
+29.47900" -> "hoja N1158"
+	"latitude
+29.47900" -> "latitude
+29.69200"
+	"latitude
+29.69200" -> "hoja N1159"
+	"latitude
+29.69200" -> "latitude
+29.73000"
+	"latitude
+29.73000" -> "hoja N1160"
+	"latitude
+29.73000" -> "latitude
+29.77300"
+	"latitude
+29.77300" -> "hoja N1161"
+	"latitude
+29.77300" -> "latitude
+29.79600"
+	"latitude
+29.79600" -> "hoja N1162"
+	"latitude
+29.79600" -> "latitude
+29.88400"
+	"latitude
+29.88400" -> "hoja N1163"
+	"latitude
+29.88400" -> "latitude
+29.93800"
+	"latitude
+29.93800" -> "hoja N1164"
+	"latitude
+29.93800" -> "latitude
+29.95700"
+	"latitude
+29.95700" -> "hoja N1165"
+	"latitude
+29.95700" -> "latitude
+30.01300"
+	"latitude
+30.01300" -> "hoja N1166"
+	"latitude
+30.01300" -> "latitude
+30.20600"
+	"latitude
+30.20600" -> "hoja N1167"
+	"latitude
+30.20600" -> "latitude
+30.24500"
+	"latitude
+30.24500" -> "hoja N1168"
+	"latitude
+30.24500" -> "hoja N1169"
+	"latitude
+30.52000" -> "longitude
+131.08200"
+	"longitude
+131.08200" -> "latitude
+31.00090"
+	"latitude
+31.00090" -> "latitude
+30.90100"
+	"latitude
+30.90100" -> "latitude
+30.63900"
+	"latitude
+30.63900" -> "hoja N1170"
+	"latitude
+30.63900" -> "latitude
+30.73700"
+	"latitude
+30.73700" -> "hoja N1171"
+	"latitude
+30.73700" -> "hoja N1172"
+	"latitude
+30.90100" -> "hoja N1173"
+	"latitude
+31.00090" -> "hoja N1174"
+	"longitude
+131.08200" -> "hoja N1175"
+	"latitude
+31.02017" -> "latitude
+31.69600"
+	"latitude
+31.69600" -> "latitude
+31.04800"
+	"latitude
+31.04800" -> "hoja N1176"
+	"latitude
+31.04800" -> "latitude
+31.05600"
+	"latitude
+31.05600" -> "hoja N1177"
+	"latitude
+31.05600" -> "latitude
+31.22800"
+	"latitude
+31.22800" -> "hoja N1178"
+	"latitude
+31.22800" -> "latitude
+31.25000"
+	"latitude
+31.25000" -> "hoja N1179"
+	"latitude
+31.25000" -> "latitude
+31.29500"
+	"latitude
+31.29500" -> "hoja N1180"
+	"latitude
+31.29500" -> "latitude
+31.39800"
+	"latitude
+31.39800" -> "hoja N1181"
+	"latitude
+31.39800" -> "hoja N1182"
+	"latitude
+31.69600" -> "longitude
+130.75430"
+	"longitude
+130.75430" -> "latitude
+32.00000"
+	"latitude
+32.00000" -> "hoja N1183"
+	"latitude
+32.00000" -> "latitude
+34.20000"
+	"latitude
+34.20000" -> "latitude
+32.11600"
+	"latitude
+32.11600" -> "hoja N1184"
+	"latitude
+32.11600" -> "latitude
+32.28617"
+	"latitude
+32.28617" -> "hoja N1185"
+	"latitude
+32.28617" -> "latitude
+32.49200"
+	"latitude
+32.49200" -> "hoja N1186"
+	"latitude
+32.49200" -> "latitude
+32.57100"
+	"latitude
+32.57100" -> "hoja N1187"
+	"latitude
+32.57100" -> "latitude
+32.63600"
+	"latitude
+32.63600" -> "hoja N1188"
+	"latitude
+32.63600" -> "latitude
+32.69300"
+	"latitude
+32.69300" -> "hoja N1189"
+	"latitude
+32.69300" -> "latitude
+32.79060"
+	"latitude
+32.79060" -> "hoja N1190"
+	"latitude
+32.79060" -> "latitude
+33.01500"
+	"latitude
+33.01500" -> "hoja N1191"
+	"latitude
+33.01500" -> "latitude
+33.17983"
+	"latitude
+33.17983" -> "hoja N1192"
+	"latitude
+33.17983" -> "latitude
+33.29850"
+	"latitude
+33.29850" -> "hoja N1193"
+	"latitude
+33.29850" -> "latitude
+33.38600"
+	"latitude
+33.38600" -> "hoja N1194"
+	"latitude
+33.38600" -> "latitude
+33.62100"
+	"latitude
+33.62100" -> "hoja N1195"
+	"latitude
+33.62100" -> "latitude
+33.64700"
+	"latitude
+33.64700" -> "hoja N1196"
+	"latitude
+33.64700" -> "latitude
+33.80700"
+	"latitude
+33.80700" -> "hoja N1197"
+	"latitude
+33.80700" -> "latitude
+33.89700"
+	"latitude
+33.89700" -> "hoja N1198"
+	"latitude
+33.89700" -> "latitude
+33.96200"
+	"latitude
+33.96200" -> "hoja N1199"
+	"latitude
+33.96200" -> "latitude
+34.04300"
+	"latitude
+34.04300" -> "hoja N1200"
+	"latitude
+34.04300" -> "hoja N1201"
+	"latitude
+34.20000" -> "latitude
+34.24800"
+	"latitude
+34.24800" -> "hoja N1202"
+	"latitude
+34.24800" -> "latitude
+34.30000"
+	"latitude
+34.30000" -> "hoja N1203"
+	"latitude
+34.30000" -> "latitude
+34.41900"
+	"latitude
+34.41900" -> "hoja N1204"
+	"latitude
+34.41900" -> "latitude
+34.55600"
+	"latitude
+34.55600" -> "hoja N1205"
+	"latitude
+34.55600" -> "hoja N1206"
+	"longitude
+130.75430" -> "mag
+6.70000"
+	"mag
+6.70000" -> "latitude
+33.63300"
+	"latitude
+33.63300" -> "latitude
+32.82100"
+	"latitude
+32.82100" -> "depth
+22.00000"
+	"depth
+22.00000" -> "hoja N1207"
+	"depth
+22.00000" -> "hoja N1208"
+	"latitude
+32.82100" -> "latitude
+33.17100"
+	"latitude
+33.17100" -> "hoja N1209"
+	"latitude
+33.17100" -> "latitude
+33.20500"
+	"latitude
+33.20500" -> "hoja N1210"
+	"latitude
+33.20500" -> "hoja N1211"
+	"latitude
+33.63300" -> "latitude
+34.26000"
+	"latitude
+34.26000" -> "depth
+16.00000"
+	"depth
+16.00000" -> "hoja N1212"
+	"depth
+16.00000" -> "hoja N1213"
+	"latitude
+34.26000" -> "latitude
+34.55200"
+	"latitude
+34.55200" -> "hoja N1214"
+	"latitude
+34.55200" -> "hoja N1215"
+	"mag
+6.70000" -> "latitude
+33.07000"
+	"latitude
+33.07000" -> "mag
+7.00000"
+	"mag
+7.00000" -> "depth
+38.60000"
+	"depth
+38.60000" -> "hoja N1216"
+	"depth
+38.60000" -> "hoja N1217"
+	"mag
+7.00000" -> "latitude
+31.89900"
+	"latitude
+31.89900" -> "hoja N1218"
+	"latitude
+31.89900" -> "hoja N1219"
+	"latitude
+33.07000" -> "longitude
+137.07100"
+	"longitude
+137.07100" -> "latitude
+33.68200"
+	"latitude
+33.68200" -> "latitude
+33.18400"
+	"latitude
+33.18400" -> "hoja N1220"
+	"latitude
+33.18400" -> "hoja N1221"
+	"latitude
+33.68200" -> "hoja N1222"
+	"longitude
+137.07100" -> "mag
+7.10000"
+	"mag
+7.10000" -> "hoja N1223"
+	"mag
+7.10000" -> "hoja N1224"
+	"latitude
+34.80900" -> "latitude
+39.17400"
+	"latitude
+39.17400" -> "longitude
+74.86300"
+	"longitude
+74.86300" -> "mag
+6.70000"
+	"mag
+6.70000" -> "latitude
+37.10600"
+	"latitude
+37.10600" -> "latitude
+36.61700"
+	"latitude
+36.61700" -> "latitude
+35.07700"
+	"latitude
+35.07700" -> "hoja N1225"
+	"latitude
+35.07700" -> "latitude
+35.51420"
+	"latitude
+35.51420" -> "hoja N1226"
+	"latitude
+35.51420" -> "latitude
+35.70050"
+	"latitude
+35.70050" -> "hoja N1227"
+	"latitude
+35.70050" -> "latitude
+36.04300"
+	"latitude
+36.04300" -> "hoja N1228"
+	"latitude
+36.04300" -> "latitude
+36.34500"
+	"latitude
+36.34500" -> "hoja N1229"
+	"latitude
+36.34500" -> "latitude
+36.37900"
+	"latitude
+36.37900" -> "hoja N1230"
+	"latitude
+36.37900" -> "latitude
+36.41900"
+	"latitude
+36.41900" -> "hoja N1231"
+	"latitude
+36.41900" -> "latitude
+36.43600"
+	"latitude
+36.43600" -> "hoja N1232"
+	"latitude
+36.43600" -> "latitude
+36.47900"
+	"latitude
+36.47900" -> "hoja N1233"
+	"latitude
+36.47900" -> "hoja N1234"
+	"latitude
+36.61700" -> "hoja N1235"
+	"latitude
+37.10600" -> "latitude
+37.70200"
+	"latitude
+37.70200" -> "latitude
+37.53800"
+	"latitude
+37.53800" -> "hoja N1236"
+	"latitude
+37.53800" -> "latitude
+37.57000"
+	"latitude
+37.57000" -> "hoja N1237"
+	"latitude
+37.57000" -> "hoja N1238"
+	"latitude
+37.70200" -> "latitude
+38.99200"
+	"latitude
+38.99200" -> "latitude
+38.32900"
+	"latitude
+38.32900" -> "latitude
+38.12500"
+	"latitude
+38.12500" -> "hoja N1239"
+	"latitude
+38.12500" -> "hoja N1240"
+	"latitude
+38.32900" -> "latitude
+38.42800"
+	"latitude
+38.42800" -> "hoja N1241"
+	"latitude
+38.42800" -> "depth
+15.00000"
+	"depth
+15.00000" -> "hoja N1242"
+	"depth
+15.00000" -> "hoja N1243"
+	"latitude
+38.99200" -> "hoja N1244"
+	"mag
+6.70000" -> "latitude
+36.96400"
+	"latitude
+36.96400" -> "latitude
+35.38700"
+	"latitude
+35.38700" -> "latitude
+34.91090"
+	"latitude
+34.91090" -> "hoja N1245"
+	"latitude
+34.91090" -> "hoja N1246"
+	"latitude
+35.38700" -> "latitude
+36.37900"
+	"latitude
+36.37900" -> "latitude
+36.03300"
+	"latitude
+36.03300" -> "mag
+7.00000"
+	"mag
+7.00000" -> "hoja N1247"
+	"mag
+7.00000" -> "hoja N1248"
+	"latitude
+36.03300" -> "latitude
+36.20200"
+	"latitude
+36.20200" -> "hoja N1249"
+	"latitude
+36.20200" -> "hoja N1250"
+	"latitude
+36.37900" -> "latitude
+36.56300"
+	"latitude
+36.56300" -> "latitude
+36.45800"
+	"latitude
+36.45800" -> "hoja N1251"
+	"latitude
+36.45800" -> "hoja N1252"
+	"latitude
+36.56300" -> "latitude
+36.72800"
+	"latitude
+36.72800" -> "hoja N1253"
+	"latitude
+36.72800" -> "hoja N1254"
+	"latitude
+36.96400" -> "latitude
+38.63600"
+	"latitude
+38.63600" -> "mag
+7.20000"
+	"mag
+7.20000" -> "latitude
+38.11700"
+	"latitude
+38.11700" -> "latitude
+37.50550"
+	"latitude
+37.50550" -> "hoja N1255"
+	"latitude
+37.50550" -> "latitude
+37.79500"
+	"latitude
+37.79500" -> "hoja N1256"
+	"latitude
+37.79500" -> "hoja N1257"
+	"latitude
+38.11700" -> "mag
+6.70000"
+	"mag
+6.70000" -> "hoja N1258"
+	"mag
+6.70000" -> "latitude
+38.51500"
+	"latitude
+38.51500" -> "hoja N1259"
+	"latitude
+38.51500" -> "hoja N1260"
+	"mag
+7.20000" -> "latitude
+37.44600"
+	"latitude
+37.44600" -> "hoja N1261"
+	"latitude
+37.44600" -> "hoja N1262"
+	"latitude
+38.63600" -> "latitude
+38.81500"
+	"latitude
+38.81500" -> "hoja N1263"
+	"latitude
+38.81500" -> "latitude
+38.93400"
+	"latitude
+38.93400" -> "hoja N1264"
+	"latitude
+38.93400" -> "latitude
+39.09800"
+	"latitude
+39.09800" -> "hoja N1265"
+	"latitude
+39.09800" -> "hoja N1266"
+	"longitude
+74.86300" -> "latitude
+36.22600"
+	"latitude
+36.22600" -> "latitude
+35.61300"
+	"latitude
+35.61300" -> "latitude
+35.41300"
+	"latitude
+35.41300" -> "latitude
+35.34500"
+	"latitude
+35.34500" -> "latitude
+35.19600"
+	"latitude
+35.19600" -> "hoja N1267"
+	"latitude
+35.19600" -> "hoja N1268"
+	"latitude
+35.34500" -> "hoja N1269"
+	"latitude
+35.41300" -> "latitude
+35.42600"
+	"latitude
+35.42600" -> "hoja N1270"
+	"latitude
+35.42600" -> "latitude
+35.43800"
+	"latitude
+35.43800" -> "hoja N1271"
+	"latitude
+35.43800" -> "hoja N1272"
+	"latitude
+35.61300" -> "latitude
+36.16600"
+	"latitude
+36.16600" -> "latitude
+35.67700"
+	"latitude
+35.67700" -> "hoja N1273"
+	"latitude
+35.67700" -> "latitude
+35.94600"
+	"latitude
+35.94600" -> "hoja N1274"
+	"latitude
+35.94600" -> "latitude
+36.00400"
+	"latitude
+36.00400" -> "hoja N1275"
+	"latitude
+36.00400" -> "latitude
+36.02300"
+	"latitude
+36.02300" -> "hoja N1276"
+	"latitude
+36.02300" -> "latitude
+36.12100"
+	"latitude
+36.12100" -> "hoja N1277"
+	"latitude
+36.12100" -> "hoja N1278"
+	"latitude
+36.16600" -> "hoja N1279"
+	"latitude
+36.22600" -> "latitude
+37.72100"
+	"latitude
+37.72100" -> "latitude
+37.15500"
+	"latitude
+37.15500" -> "latitude
+36.66100"
+	"latitude
+36.66100" -> "latitude
+36.45800"
+	"latitude
+36.45800" -> "hoja N1280"
+	"latitude
+36.45800" -> "mag
+6.70000"
+	"mag
+6.70000" -> "hoja N1281"
+	"mag
+6.70000" -> "hoja N1282"
+	"latitude
+36.66100" -> "latitude
+36.92900"
+	"latitude
+36.92900" -> "hoja N1283"
+	"latitude
+36.92900" -> "longitude
+140.40100"
+	"longitude
+140.40100" -> "hoja N1284"
+	"longitude
+140.40100" -> "latitude
+36.98800"
+	"latitude
+36.98800" -> "hoja N1285"
+	"latitude
+36.98800" -> "hoja N1286"
+	"latitude
+37.15500" -> "longitude
+138.77900"
+	"longitude
+138.77900" -> "latitude
+37.52900"
+	"latitude
+37.52900" -> "depth
+14.00000"
+	"depth
+14.00000" -> "hoja N1287"
+	"depth
+14.00000" -> "hoja N1288"
+	"latitude
+37.52900" -> "hoja N1289"
+	"longitude
+138.77900" -> "mag
+7.00000"
+	"mag
+7.00000" -> "latitude
+37.36300"
+	"latitude
+37.36300" -> "hoja N1290"
+	"latitude
+37.36300" -> "latitude
+37.55200"
+	"latitude
+37.55200" -> "hoja N1291"
+	"latitude
+37.55200" -> "hoja N1292"
+	"mag
+7.00000" -> "hoja N1293"
+	"latitude
+37.72100" -> "latitude
+38.30500"
+	"latitude
+38.30500" -> "latitude
+37.88700"
+	"latitude
+37.88700" -> "hoja N1294"
+	"latitude
+37.88700" -> "latitude
+38.21500"
+	"latitude
+38.21500" -> "longitude
+142.12200"
+	"longitude
+142.12200" -> "hoja N1295"
+	"longitude
+142.12200" -> "hoja N1296"
+	"latitude
+38.21500" -> "longitude
+142.27600"
+	"longitude
+142.27600" -> "hoja N1297"
+	"longitude
+142.27600" -> "hoja N1298"
+	"latitude
+38.30500" -> "longitude
+140.88100"
+	"longitude
+140.88100" -> "latitude
+38.95600"
+	"latitude
+38.95600" -> "hoja N1299"
+	"latitude
+38.95600" -> "hoja N1300"
+	"longitude
+140.88100" -> "latitude
+38.84900"
+	"latitude
+38.84900" -> "depth
+35.00000"
+	"depth
+35.00000" -> "latitude
+38.50700"
+	"latitude
+38.50700" -> "hoja N1301"
+	"latitude
+38.50700" -> "hoja N1302"
+	"depth
+35.00000" -> "hoja N1303"
+	"latitude
+38.84900" -> "hoja N1304"
+	"latitude
+39.17400" -> "latitude
+40.70100"
+	"latitude
+40.70100" -> "depth
+15.00000"
+	"depth
+15.00000" -> "latitude
+40.07400"
+	"latitude
+40.07400" -> "latitude
+39.49600"
+	"latitude
+39.49600" -> "latitude
+39.36800"
+	"latitude
+39.36800" -> "latitude
+39.23300"
+	"latitude
+39.23300" -> "hoja N1305"
+	"latitude
+39.23300" -> "latitude
+39.29100"
+	"latitude
+39.29100" -> "hoja N1306"
+	"latitude
+39.29100" -> "hoja N1307"
+	"latitude
+39.36800" -> "hoja N1308"
+	"latitude
+39.49600" -> "depth
+15.00000"
+	"depth
+15.00000" -> "mag
+6.60000"
+	"mag
+6.60000" -> "depth
+10.00000"
+	"depth
+10.00000" -> "hoja N1309"
+	"depth
+10.00000" -> "hoja N1310"
+	"mag
+6.60000" -> "latitude
+39.94500"
+	"latitude
+39.94500" -> "hoja N1311"
+	"latitude
+39.94500" -> "hoja N1312"
+	"depth
+15.00000" -> "hoja N1313"
+	"latitude
+40.07400" -> "longitude
+24.76600"
+	"longitude
+24.76600" -> "latitude
+40.18300"
+	"latitude
+40.18300" -> "hoja N1314"
+	"latitude
+40.18300" -> "latitude
+40.40550"
+	"latitude
+40.40550" -> "hoja N1315"
+	"latitude
+40.40550" -> "latitude
+40.44700"
+	"latitude
+40.44700" -> "hoja N1316"
+	"latitude
+40.44700" -> "latitude
+40.50300"
+	"latitude
+40.50300" -> "hoja N1317"
+	"latitude
+40.50300" -> "hoja N1318"
+	"longitude
+24.76600" -> "latitude
+40.28930"
+	"latitude
+40.28930" -> "latitude
+40.19900"
+	"latitude
+40.19900" -> "hoja N1319"
+	"latitude
+40.19900" -> "hoja N1320"
+	"latitude
+40.28930" -> "latitude
+40.41800"
+	"latitude
+40.41800" -> "hoja N1321"
+	"latitude
+40.41800" -> "hoja N1322"
+	"depth
+15.00000" -> "latitude
+39.85600"
+	"latitude
+39.85600" -> "depth
+23.00000"
+	"depth
+23.00000" -> "longitude
+70.51100"
+	"longitude
+70.51100" -> "hoja N1323"
+	"longitude
+70.51100" -> "latitude
+39.27320"
+	"latitude
+39.27320" -> "hoja N1324"
+	"latitude
+39.27320" -> "hoja N1325"
+	"depth
+23.00000" -> "latitude
+39.52200"
+	"latitude
+39.52200" -> "longitude
+143.02600"
+	"longitude
+143.02600" -> "hoja N1326"
+	"longitude
+143.02600" -> "latitude
+39.41900"
+	"latitude
+39.41900" -> "hoja N1327"
+	"latitude
+39.41900" -> "hoja N1328"
+	"latitude
+39.52200" -> "latitude
+39.76200"
+	"latitude
+39.76200" -> "latitude
+39.56600"
+	"latitude
+39.56600" -> "hoja N1329"
+	"latitude
+39.56600" -> "hoja N1330"
+	"latitude
+39.76200" -> "longitude
+142.76000"
+	"longitude
+142.76000" -> "hoja N1331"
+	"longitude
+142.76000" -> "hoja N1332"
+	"latitude
+39.85600" -> "latitude
+40.57200"
+	"latitude
+40.57200" -> "latitude
+40.32800"
+	"latitude
+40.32800" -> "latitude
+40.16700"
+	"latitude
+40.16700" -> "depth
+33.00000"
+	"depth
+33.00000" -> "hoja N1333"
+	"depth
+33.00000" -> "hoja N1334"
+	"latitude
+40.16700" -> "latitude
+40.24600"
+	"latitude
+40.24600" -> "hoja N1335"
+	"latitude
+40.24600" -> "hoja N1336"
+	"latitude
+40.32800" -> "latitude
+40.36800"
+	"latitude
+40.36800" -> "hoja N1337"
+	"latitude
+40.36800" -> "latitude
+40.44600"
+	"latitude
+40.44600" -> "hoja N1338"
+	"latitude
+40.44600" -> "hoja N1339"
+	"latitude
+40.57200" -> "latitude
+40.64100"
+	"latitude
+40.64100" -> "hoja N1340"
+	"latitude
+40.64100" -> "latitude
+40.68700"
+	"latitude
+40.68700" -> "hoja N1341"
+	"latitude
+40.68700" -> "hoja N1342"
+	"latitude
+40.70100" -> "latitude
+42.17900"
+	"latitude
+42.17900" -> "latitude
+41.38000"
+	"latitude
+41.38000" -> "longitude
+142.01100"
+	"longitude
+142.01100" -> "latitude
+41.11500"
+	"latitude
+41.11500" -> "depth
+10.00000"
+	"depth
+10.00000" -> "hoja N1343"
+	"depth
+10.00000" -> "latitude
+40.87000"
+	"latitude
+40.87000" -> "latitude
+40.74800"
+	"latitude
+40.74800" -> "hoja N1344"
+	"latitude
+40.74800" -> "latitude
+40.77600"
+	"latitude
+40.77600" -> "hoja N1345"
+	"latitude
+40.77600" -> "hoja N1346"
+	"latitude
+40.87000" -> "hoja N1347"
+	"latitude
+41.11500" -> "longitude
+-124.69400"
+	"longitude
+-124.69400" -> "hoja N1348"
+	"longitude
+-124.69400" -> "depth
+10.00000"
+	"depth
+10.00000" -> "hoja N1349"
+	"depth
+10.00000" -> "hoja N1350"
+	"longitude
+142.01100" -> "latitude
+40.86000"
+	"latitude
+40.86000" -> "hoja N1351"
+	"latitude
+40.86000" -> "hoja N1352"
+	"latitude
+41.38000" -> "latitude
+41.81700"
+	"latitude
+41.81700" -> "latitude
+41.71100"
+	"latitude
+41.71100" -> "latitude
+41.43000"
+	"latitude
+41.43000" -> "hoja N1353"
+	"latitude
+41.43000" -> "latitude
+41.60400"
+	"latitude
+41.60400" -> "hoja N1354"
+	"latitude
+41.60400" -> "hoja N1355"
+	"latitude
+41.71100" -> "latitude
+41.81100"
+	"latitude
+41.81100" -> "latitude
+41.75700"
+	"latitude
+41.75700" -> "hoja N1356"
+	"latitude
+41.75700" -> "hoja N1357"
+	"latitude
+41.81100" -> "hoja N1358"
+	"latitude
+41.81700" -> "latitude
+42.11700"
+	"latitude
+42.11700" -> "depth
+15.00000"
+	"depth
+15.00000" -> "hoja N1359"
+	"depth
+15.00000" -> "longitude
+142.75900"
+	"longitude
+142.75900" -> "hoja N1360"
+	"longitude
+142.75900" -> "hoja N1361"
+	"latitude
+42.11700" -> "hoja N1362"
+	"latitude
+42.17900" -> "latitude
+42.50100"
+	"latitude
+42.50100" -> "latitude
+42.29200"
+	"latitude
+42.29200" -> "hoja N1363"
+	"latitude
+42.29200" -> "latitude
+42.35600"
+	"latitude
+42.35600" -> "hoja N1364"
+	"latitude
+42.35600" -> "hoja N1365"
+	"latitude
+42.50100" -> "longitude
+78.53000"
+	"longitude
+78.53000" -> "latitude
+43.09600"
+	"latitude
+43.09600" -> "latitude
+42.86210"
+	"latitude
+42.86210" -> "hoja N1366"
+	"latitude
+42.86210" -> "hoja N1367"
+	"latitude
+43.09600" -> "hoja N1368"
+	"longitude
+78.53000" -> "latitude
+43.42400"
+	"latitude
+43.42400" -> "longitude
+142.85000"
+	"longitude
+142.85000" -> "latitude
+43.09900"
+	"latitude
+43.09900" -> "latitude
+42.83900"
+	"latitude
+42.83900" -> "hoja N1369"
+	"latitude
+42.83900" -> "hoja N1370"
+	"latitude
+43.09900" -> "hoja N1371"
+	"longitude
+142.85000" -> "latitude
+43.30000"
+	"latitude
+43.30000" -> "longitude
+144.57000"
+	"longitude
+144.57000" -> "latitude
+42.52300"
+	"latitude
+42.52300" -> "hoja N1372"
+	"latitude
+42.52300" -> "hoja N1373"
+	"longitude
+144.57000" -> "latitude
+43.05000"
+	"latitude
+43.05000" -> "hoja N1374"
+	"latitude
+43.05000" -> "hoja N1375"
+	"latitude
+43.30000" -> "latitude
+43.31800"
+	"latitude
+43.31800" -> "hoja N1376"
+	"latitude
+43.31800" -> "hoja N1377"
+	"latitude
+43.42400" -> "latitude
+43.52300"
+	"latitude
+43.52300" -> "hoja N1378"
+	"latitude
+43.52300" -> "latitude
+43.56600"
+	"latitude
+43.56600" -> "hoja N1379"
+	"latitude
+43.56600" -> "hoja N1380"
+	"latitude
+43.63200" -> "latitude
+58.67900"
+	"latitude
+58.67900" -> "latitude
+51.38900"
+	"latitude
+51.38900" -> "depth
+54.20000"
+	"depth
+54.20000" -> "depth
+25.00000"
+	"depth
+25.00000" -> "latitude
+48.93800"
+	"latitude
+48.93800" -> "latitude
+46.73700"
+	"latitude
+46.73700" -> "latitude
+45.52100"
+	"latitude
+45.52100" -> "latitude
+44.50500"
+	"latitude
+44.50500" -> "latitude
+43.77300"
+	"latitude
+43.77300" -> "hoja N1381"
+	"latitude
+43.77300" -> "latitude
+43.94800"
+	"latitude
+43.94800" -> "hoja N1382"
+	"latitude
+43.94800" -> "hoja N1383"
+	"latitude
+44.50500" -> "longitude
+151.70700"
+	"longitude
+151.70700" -> "longitude
+139.48900"
+	"longitude
+139.48900" -> "hoja N1384"
+	"longitude
+139.48900" -> "latitude
+44.69500"
+	"latitude
+44.69500" -> "hoja N1385"
+	"latitude
+44.69500" -> "hoja N1386"
+	"longitude
+151.70700" -> "hoja N1387"
+	"latitude
+45.52100" -> "latitude
+46.15300"
+	"latitude
+46.15300" -> "hoja N1388"
+	"latitude
+46.15300" -> "longitude
+141.19900"
+	"longitude
+141.19900" -> "hoja N1389"
+	"longitude
+141.19900" -> "depth
+15.00000"
+	"depth
+15.00000" -> "hoja N1390"
+	"depth
+15.00000" -> "latitude
+46.46300"
+	"latitude
+46.46300" -> "hoja N1391"
+	"latitude
+46.46300" -> "latitude
+46.54500"
+	"latitude
+46.54500" -> "hoja N1392"
+	"latitude
+46.54500" -> "hoja N1393"
+	"latitude
+46.73700" -> "latitude
+46.98600"
+	"latitude
+46.98600" -> "hoja N1394"
+	"latitude
+46.98600" -> "latitude
+47.55700"
+	"latitude
+47.55700" -> "hoja N1395"
+	"latitude
+47.55700" -> "latitude
+48.11700"
+	"latitude
+48.11700" -> "hoja N1396"
+	"latitude
+48.11700" -> "latitude
+48.78600"
+	"latitude
+48.78600" -> "hoja N1397"
+	"latitude
+48.78600" -> "hoja N1398"
+	"latitude
+48.93800" -> "depth
+15.00000"
+	"depth
+15.00000" -> "latitude
+50.03900"
+	"latitude
+50.03900" -> "latitude
+49.27700"
+	"latitude
+49.27700" -> "hoja N1399"
+	"latitude
+49.27700" -> "latitude
+49.47900"
+	"latitude
+49.47900" -> "hoja N1400"
+	"latitude
+49.47900" -> "hoja N1401"
+	"latitude
+50.03900" -> "longitude
+-130.75600"
+	"longitude
+-130.75600" -> "hoja N1402"
+	"longitude
+-130.75600" -> "latitude
+50.21100"
+	"latitude
+50.21100" -> "hoja N1403"
+	"latitude
+50.21100" -> "latitude
+51.00000"
+	"latitude
+51.00000" -> "hoja N1404"
+	"latitude
+51.00000" -> "latitude
+51.03500"
+	"latitude
+51.03500" -> "hoja N1405"
+	"latitude
+51.03500" -> "hoja N1406"
+	"depth
+15.00000" -> "latitude
+51.21400"
+	"latitude
+51.21400" -> "latitude
+50.16600"
+	"latitude
+50.16600" -> "latitude
+49.36900"
+	"latitude
+49.36900" -> "hoja N1407"
+	"latitude
+49.36900" -> "latitude
+49.53500"
+	"latitude
+49.53500" -> "hoja N1408"
+	"latitude
+49.53500" -> "latitude
+49.70900"
+	"latitude
+49.70900" -> "hoja N1409"
+	"latitude
+49.70900" -> "hoja N1410"
+	"latitude
+50.16600" -> "latitude
+50.51300"
+	"latitude
+50.51300" -> "hoja N1411"
+	"latitude
+50.51300" -> "latitude
+51.03400"
+	"latitude
+51.03400" -> "hoja N1412"
+	"latitude
+51.03400" -> "latitude
+51.16000"
+	"latitude
+51.16000" -> "hoja N1413"
+	"latitude
+51.16000" -> "hoja N1414"
+	"latitude
+51.21400" -> "latitude
+51.23900"
+	"latitude
+51.23900" -> "hoja N1415"
+	"latitude
+51.23900" -> "latitude
+51.27200"
+	"latitude
+51.27200" -> "hoja N1416"
+	"latitude
+51.27200" -> "hoja N1417"
+	"depth
+25.00000" -> "latitude
+47.14900"
+	"latitude
+47.14900" -> "latitude
+44.82200"
+	"latitude
+44.82200" -> "latitude
+44.32700"
+	"latitude
+44.32700" -> "latitude
+43.78900"
+	"latitude
+43.78900" -> "hoja N1418"
+	"latitude
+43.78900" -> "latitude
+43.97200"
+	"latitude
+43.97200" -> "latitude
+43.85500"
+	"latitude
+43.85500" -> "hoja N1419"
+	"latitude
+43.85500" -> "hoja N1420"
+	"latitude
+43.97200" -> "latitude
+44.14000"
+	"latitude
+44.14000" -> "hoja N1421"
+	"latitude
+44.14000" -> "hoja N1422"
+	"latitude
+44.32700" -> "longitude
+149.72000"
+	"longitude
+149.72000" -> "longitude
+149.30000"
+	"longitude
+149.30000" -> "hoja N1423"
+	"longitude
+149.30000" -> "hoja N1424"
+	"longitude
+149.72000" -> "depth
+28.30000"
+	"depth
+28.30000" -> "hoja N1425"
+	"depth
+28.30000" -> "hoja N1426"
+	"latitude
+44.82200" -> "longitude
+151.17600"
+	"longitude
+151.17600" -> "latitude
+45.26100"
+	"latitude
+45.26100" -> "latitude
+44.93400"
+	"latitude
+44.93400" -> "hoja N1427"
+	"latitude
+44.93400" -> "hoja N1428"
+	"latitude
+45.26100" -> "latitude
+45.32400"
+	"latitude
+45.32400" -> "hoja N1429"
+	"latitude
+45.32400" -> "hoja N1430"
+	"longitude
+151.17600" -> "latitude
+46.85700"
+	"latitude
+46.85700" -> "latitude
+46.57000"
+	"latitude
+46.57000" -> "latitude
+45.52700"
+	"latitude
+45.52700" -> "hoja N1431"
+	"latitude
+45.52700" -> "latitude
+45.64500"
+	"latitude
+45.64500" -> "hoja N1432"
+	"latitude
+45.64500" -> "latitude
+46.01500"
+	"latitude
+46.01500" -> "hoja N1433"
+	"latitude
+46.01500" -> "hoja N1434"
+	"latitude
+46.57000" -> "hoja N1435"
+	"latitude
+46.85700" -> "hoja N1436"
+	"latitude
+47.14900" -> "latitude
+50.38800"
+	"latitude
+50.38800" -> "latitude
+47.29700"
+	"latitude
+47.29700" -> "hoja N1437"
+	"latitude
+47.29700" -> "latitude
+48.36100"
+	"latitude
+48.36100" -> "hoja N1438"
+	"latitude
+48.36100" -> "latitude
+48.87100"
+	"latitude
+48.87100" -> "hoja N1439"
+	"latitude
+48.87100" -> "latitude
+49.19600"
+	"latitude
+49.19600" -> "hoja N1440"
+	"latitude
+49.19600" -> "latitude
+49.28000"
+	"latitude
+49.28000" -> "hoja N1441"
+	"latitude
+49.28000" -> "latitude
+49.40800"
+	"latitude
+49.40800" -> "hoja N1442"
+	"latitude
+49.40800" -> "hoja N1443"
+	"latitude
+50.38800" -> "latitude
+51.25100"
+	"latitude
+51.25100" -> "longitude
+157.52200"
+	"longitude
+157.52200" -> "latitude
+50.72200"
+	"latitude
+50.72200" -> "hoja N1444"
+	"latitude
+50.72200" -> "latitude
+50.89500"
+	"latitude
+50.89500" -> "hoja N1445"
+	"latitude
+50.89500" -> "latitude
+50.95800"
+	"latitude
+50.95800" -> "hoja N1446"
+	"latitude
+50.95800" -> "hoja N1447"
+	"longitude
+157.52200" -> "latitude
+51.14600"
+	"latitude
+51.14600" -> "hoja N1448"
+	"latitude
+51.14600" -> "hoja N1449"
+	"latitude
+51.25100" -> "latitude
+51.27700"
+	"latitude
+51.27700" -> "hoja N1450"
+	"latitude
+51.27700" -> "latitude
+51.28300"
+	"latitude
+51.28300" -> "hoja N1451"
+	"latitude
+51.28300" -> "latitude
+51.29700"
+	"latitude
+51.29700" -> "hoja N1452"
+	"latitude
+51.29700" -> "latitude
+51.34700"
+	"latitude
+51.34700" -> "hoja N1453"
+	"latitude
+51.34700" -> "latitude
+51.35600"
+	"latitude
+51.35600" -> "hoja N1454"
+	"latitude
+51.35600" -> "latitude
+51.37400"
+	"latitude
+51.37400" -> "hoja N1455"
+	"latitude
+51.37400" -> "hoja N1456"
+	"depth
+54.20000" -> "latitude
+47.28800"
+	"latitude
+47.28800" -> "depth
+90.00000"
+	"depth
+90.00000" -> "latitude
+45.70800"
+	"latitude
+45.70800" -> "latitude
+44.21200"
+	"latitude
+44.21200" -> "hoja N1457"
+	"latitude
+44.21200" -> "hoja N1458"
+	"latitude
+45.70800" -> "hoja N1459"
+	"depth
+90.00000" -> "depth
+110.00000"
+	"depth
+110.00000" -> "hoja N1460"
+	"depth
+110.00000" -> "latitude
+44.12000"
+	"latitude
+44.12000" -> "hoja N1461"
+	"latitude
+44.12000" -> "latitude
+44.83300"
+	"latitude
+44.83300" -> "hoja N1462"
+	"latitude
+44.83300" -> "latitude
+45.54700"
+	"latitude
+45.54700" -> "hoja N1463"
+	"latitude
+45.54700" -> "hoja N1464"
+	"latitude
+47.28800" -> "latitude
+47.64300"
+	"latitude
+47.64300" -> "hoja N1465"
+	"latitude
+47.64300" -> "latitude
+47.86900"
+	"latitude
+47.86900" -> "hoja N1466"
+	"latitude
+47.86900" -> "latitude
+49.01900"
+	"latitude
+49.01900" -> "hoja N1467"
+	"latitude
+49.01900" -> "latitude
+49.06300"
+	"latitude
+49.06300" -> "hoja N1468"
+	"latitude
+49.06300" -> "latitude
+49.28200"
+	"latitude
+49.28200" -> "hoja N1469"
+	"latitude
+49.28200" -> "latitude
+49.37600"
+	"latitude
+49.37600" -> "hoja N1470"
+	"latitude
+49.37600" -> "latitude
+50.05700"
+	"latitude
+50.05700" -> "hoja N1471"
+	"latitude
+50.05700" -> "hoja N1472"
+	"latitude
+51.38900" -> "latitude
+52.91500"
+	"latitude
+52.91500" -> "longitude
+-166.35400"
+	"longitude
+-166.35400" -> "longitude
+-177.66800"
+	"longitude
+-177.66800" -> "latitude
+51.42300"
+	"latitude
+51.42300" -> "hoja N1473"
+	"latitude
+51.42300" -> "latitude
+51.42500"
+	"latitude
+51.42500" -> "hoja N1474"
+	"latitude
+51.42500" -> "latitude
+51.47300"
+	"latitude
+51.47300" -> "hoja N1475"
+	"latitude
+51.47300" -> "latitude
+51.48300"
+	"latitude
+51.48300" -> "hoja N1476"
+	"latitude
+51.48300" -> "latitude
+51.49500"
+	"latitude
+51.49500" -> "hoja N1477"
+	"latitude
+51.49500" -> "latitude
+51.51400"
+	"latitude
+51.51400" -> "hoja N1478"
+	"latitude
+51.51400" -> "latitude
+51.59200"
+	"latitude
+51.59200" -> "hoja N1479"
+	"latitude
+51.59200" -> "latitude
+51.85600"
+	"latitude
+51.85600" -> "hoja N1480"
+	"latitude
+51.85600" -> "hoja N1481"
+	"longitude
+-177.66800" -> "latitude
+52.31900"
+	"latitude
+52.31900" -> "latitude
+52.05000"
+	"latitude
+52.05000" -> "depth
+25.00000"
+	"depth
+25.00000" -> "longitude
+-175.13500"
+	"longitude
+-175.13500" -> "latitude
+51.45100"
+	"latitude
+51.45100" -> "hoja N1482"
+	"latitude
+51.45100" -> "hoja N1483"
+	"longitude
+-175.13500" -> "hoja N1484"
+	"depth
+25.00000" -> "latitude
+51.61900"
+	"latitude
+51.61900" -> "latitude
+51.49000"
+	"latitude
+51.49000" -> "hoja N1485"
+	"latitude
+51.49000" -> "hoja N1486"
+	"latitude
+51.61900" -> "latitude
+51.75200"
+	"latitude
+51.75200" -> "hoja N1487"
+	"latitude
+51.75200" -> "hoja N1488"
+	"latitude
+52.05000" -> "latitude
+52.16800"
+	"latitude
+52.16800" -> "hoja N1489"
+	"latitude
+52.16800" -> "latitude
+52.23200"
+	"latitude
+52.23200" -> "hoja N1490"
+	"latitude
+52.23200" -> "hoja N1491"
+	"latitude
+52.31900" -> "latitude
+52.37600"
+	"latitude
+52.37600" -> "hoja N1492"
+	"latitude
+52.37600" -> "latitude
+52.45000"
+	"latitude
+52.45000" -> "hoja N1493"
+	"latitude
+52.45000" -> "latitude
+52.48700"
+	"latitude
+52.48700" -> "hoja N1494"
+	"latitude
+52.48700" -> "latitude
+52.57100"
+	"latitude
+52.57100" -> "hoja N1495"
+	"latitude
+52.57100" -> "latitude
+52.60400"
+	"latitude
+52.60400" -> "hoja N1496"
+	"latitude
+52.60400" -> "latitude
+52.69100"
+	"latitude
+52.69100" -> "hoja N1497"
+	"latitude
+52.69100" -> "hoja N1498"
+	"longitude
+-166.35400" -> "latitude
+52.18500"
+	"latitude
+52.18500" -> "latitude
+51.93400"
+	"latitude
+51.93400" -> "latitude
+51.60400"
+	"latitude
+51.60400" -> "latitude
+51.44300"
+	"latitude
+51.44300" -> "hoja N1499"
+	"latitude
+51.44300" -> "latitude
+51.45900"
+	"latitude
+51.45900" -> "hoja N1500"
+	"latitude
+51.45900" -> "hoja N1501"
+	"latitude
+51.60400" -> "latitude
+51.82600"
+	"latitude
+51.82600" -> "latitude
+51.74400"
+	"latitude
+51.74400" -> "hoja N1502"
+	"latitude
+51.74400" -> "latitude
+51.75500"
+	"latitude
+51.75500" -> "hoja N1503"
+	"latitude
+51.75500" -> "hoja N1504"
+	"latitude
+51.82600" -> "hoja N1505"
+	"latitude
+51.93400" -> "latitude
+51.96500"
+	"latitude
+51.96500" -> "hoja N1506"
+	"latitude
+51.96500" -> "latitude
+52.05600"
+	"latitude
+52.05600" -> "hoja N1507"
+	"latitude
+52.05600" -> "latitude
+52.11500"
+	"latitude
+52.11500" -> "hoja N1508"
+	"latitude
+52.11500" -> "hoja N1509"
+	"latitude
+52.18500" -> "latitude
+52.59100"
+	"latitude
+52.59100" -> "latitude
+52.22200"
+	"latitude
+52.22200" -> "hoja N1510"
+	"latitude
+52.22200" -> "latitude
+52.23500"
+	"latitude
+52.23500" -> "hoja N1511"
+	"latitude
+52.23500" -> "latitude
+52.29200"
+	"latitude
+52.29200" -> "hoja N1512"
+	"latitude
+52.29200" -> "latitude
+52.37100"
+	"latitude
+52.37100" -> "hoja N1513"
+	"latitude
+52.37100" -> "latitude
+52.38600"
+	"latitude
+52.38600" -> "hoja N1514"
+	"latitude
+52.38600" -> "hoja N1515"
+	"latitude
+52.59100" -> "latitude
+52.78800"
+	"latitude
+52.78800" -> "latitude
+52.63100"
+	"latitude
+52.63100" -> "hoja N1516"
+	"latitude
+52.63100" -> "hoja N1517"
+	"latitude
+52.78800" -> "latitude
+52.80300"
+	"latitude
+52.80300" -> "hoja N1518"
+	"latitude
+52.80300" -> "latitude
+52.82700"
+	"latitude
+52.82700" -> "hoja N1519"
+	"latitude
+52.82700" -> "latitude
+52.88900"
+	"latitude
+52.88900" -> "hoja N1520"
+	"latitude
+52.88900" -> "hoja N1521"
+	"latitude
+52.91500" -> "latitude
+55.39300"
+	"latitude
+55.39300" -> "latitude
+53.14100"
+	"latitude
+53.14100" -> "latitude
+52.94000"
+	"latitude
+52.94000" -> "hoja N1522"
+	"latitude
+52.94000" -> "latitude
+52.96900"
+	"latitude
+52.96900" -> "hoja N1523"
+	"latitude
+52.96900" -> "latitude
+53.00800"
+	"latitude
+53.00800" -> "hoja N1524"
+	"latitude
+53.00800" -> "hoja N1525"
+	"latitude
+53.14100" -> "longitude
+159.58600"
+	"longitude
+159.58600" -> "latitude
+54.64900"
+	"latitude
+54.64900" -> "latitude
+53.47000"
+	"latitude
+53.47000" -> "hoja N1526"
+	"latitude
+53.47000" -> "latitude
+53.64500"
+	"latitude
+53.64500" -> "hoja N1527"
+	"latitude
+53.64500" -> "latitude
+53.79500"
+	"latitude
+53.79500" -> "hoja N1528"
+	"latitude
+53.79500" -> "latitude
+53.81500"
+	"latitude
+53.81500" -> "hoja N1529"
+	"latitude
+53.81500" -> "latitude
+53.82600"
+	"latitude
+53.82600" -> "hoja N1530"
+	"latitude
+53.82600" -> "latitude
+53.88900"
+	"latitude
+53.88900" -> "hoja N1531"
+	"latitude
+53.88900" -> "latitude
+54.15500"
+	"latitude
+54.15500" -> "hoja N1532"
+	"latitude
+54.15500" -> "latitude
+54.21100"
+	"latitude
+54.21100" -> "hoja N1533"
+	"latitude
+54.21100" -> "latitude
+54.35800"
+	"latitude
+54.35800" -> "hoja N1534"
+	"latitude
+54.35800" -> "hoja N1535"
+	"latitude
+54.64900" -> "latitude
+55.01700"
+	"latitude
+55.01700" -> "latitude
+54.76500"
+	"latitude
+54.76500" -> "hoja N1536"
+	"latitude
+54.76500" -> "latitude
+54.80800"
+	"latitude
+54.80800" -> "hoja N1537"
+	"latitude
+54.80800" -> "hoja N1538"
+	"latitude
+55.01700" -> "hoja N1539"
+	"longitude
+159.58600" -> "latitude
+54.87700"
+	"latitude
+54.87700" -> "depth
+33.00000"
+	"depth
+33.00000" -> "latitude
+53.56600"
+	"latitude
+53.56600" -> "latitude
+53.38000"
+	"latitude
+53.38000" -> "hoja N1540"
+	"latitude
+53.38000" -> "hoja N1541"
+	"latitude
+53.56600" -> "latitude
+54.38200"
+	"latitude
+54.38200" -> "latitude
+53.75200"
+	"latitude
+53.75200" -> "hoja N1542"
+	"latitude
+53.75200" -> "hoja N1543"
+	"latitude
+54.38200" -> "hoja N1544"
+	"depth
+33.00000" -> "latitude
+53.63300"
+	"latitude
+53.63300" -> "hoja N1545"
+	"latitude
+53.63300" -> "hoja N1546"
+	"latitude
+54.87700" -> "latitude
+55.14900"
+	"latitude
+55.14900" -> "hoja N1547"
+	"latitude
+55.14900" -> "hoja N1548"
+	"latitude
+55.39300" -> "latitude
+56.32500"
+	"latitude
+56.32500" -> "latitude
+56.19400"
+	"latitude
+56.19400" -> "depth
+33.00000"
+	"depth
+33.00000" -> "latitude
+56.02500"
+	"latitude
+56.02500" -> "depth
+20.00000"
+	"depth
+20.00000" -> "hoja N1549"
+	"depth
+20.00000" -> "latitude
+55.82800"
+	"latitude
+55.82800" -> "latitude
+55.50600"
+	"latitude
+55.50600" -> "hoja N1550"
+	"latitude
+55.50600" -> "hoja N1551"
+	"latitude
+55.82800" -> "hoja N1552"
+	"latitude
+56.02500" -> "hoja N1553"
+	"depth
+33.00000" -> "depth
+62.60000"
+	"depth
+62.60000" -> "hoja N1554"
+	"depth
+62.60000" -> "hoja N1555"
+	"latitude
+56.19400" -> "latitude
+56.25900"
+	"latitude
+56.25900" -> "hoja N1556"
+	"latitude
+56.25900" -> "hoja N1557"
+	"latitude
+56.32500" -> "latitude
+56.94010"
+	"latitude
+56.94010" -> "latitude
+56.35000"
+	"latitude
+56.35000" -> "hoja N1558"
+	"latitude
+56.35000" -> "latitude
+56.42300"
+	"latitude
+56.42300" -> "hoja N1559"
+	"latitude
+56.42300" -> "latitude
+56.48900"
+	"latitude
+56.48900" -> "hoja N1560"
+	"latitude
+56.48900" -> "latitude
+56.57500"
+	"latitude
+56.57500" -> "hoja N1561"
+	"latitude
+56.57500" -> "hoja N1562"
+	"latitude
+56.94010" -> "longitude
+-143.03200"
+	"longitude
+-143.03200" -> "longitude
+-151.28900"
+	"longitude
+-151.28900" -> "latitude
+57.10400"
+	"latitude
+57.10400" -> "hoja N1563"
+	"latitude
+57.10400" -> "hoja N1564"
+	"longitude
+-151.28900" -> "hoja N1565"
+	"longitude
+-143.03200" -> "depth
+10.00000"
+	"depth
+10.00000" -> "hoja N1566"
+	"depth
+10.00000" -> "latitude
+57.65000"
+	"latitude
+57.65000" -> "hoja N1567"
+	"latitude
+57.65000" -> "hoja N1568"
+	"latitude
+58.67900" -> "latitude
+59.30700"
+	"latitude
+59.30700" -> "hoja N1569"
+	"latitude
+59.30700" -> "latitude
+59.70200"
+	"latitude
+59.70200" -> "hoja N1570"
+	"latitude
+59.70200" -> "latitude
+60.13700"
+	"latitude
+60.13700" -> "hoja N1571"
+	"latitude
+60.13700" -> "latitude
+60.28100"
+	"latitude
+60.28100" -> "hoja N1572"
+	"latitude
+60.28100" -> "latitude
+60.49100"
+	"latitude
+60.49100" -> "hoja N1573"
+	"latitude
+60.49100" -> "latitude
+60.64200"
+	"latitude
+60.64200" -> "hoja N1574"
+	"latitude
+60.64200" -> "latitude
+60.90400"
+	"latitude
+60.90400" -> "hoja N1575"
+	"latitude
+60.90400" -> "latitude
+60.92700"
+	"latitude
+60.92700" -> "hoja N1576"
+	"latitude
+60.92700" -> "latitude
+61.03100"
+	"latitude
+61.03100" -> "hoja N1577"
+	"latitude
+61.03100" -> "latitude
+61.21400"
+	"latitude
+61.21400" -> "hoja N1578"
+	"latitude
+61.21400" -> "latitude
+62.22200"
+	"latitude
+62.22200" -> "hoja N1579"
+	"latitude
+62.22200" -> "latitude
+62.53600"
+	"latitude
+62.53600" -> "hoja N1580"
+	"latitude
+62.53600" -> "latitude
+63.51700"
+	"latitude
+63.51700" -> "hoja N1581"
+	"latitude
+63.51700" -> "latitude
+63.96600"
+	"latitude
+63.96600" -> "hoja N1582"
+	"latitude
+63.96600" -> "latitude
+64.13100"
+	"latitude
+64.13100" -> "hoja N1583"
+	"latitude
+64.13100" -> "latitude
+64.72600"
+	"latitude
+64.72600" -> "hoja N1584"
+	"latitude
+64.72600" -> "latitude
+65.39300"
+	"latitude
+65.39300" -> "hoja N1585"
+	"latitude
+65.39300" -> "latitude
+66.15700"
+	"latitude
+66.15700" -> "hoja N1586"
+	"latitude
+66.15700" -> "latitude
+66.87700"
+	"latitude
+66.87700" -> "hoja N1587"
+	"latitude
+66.87700" -> "latitude
+67.52600"
+	"latitude
+67.52600" -> "hoja N1588"
+	"latitude
+67.52600" -> "latitude
+70.22100"
+	"latitude
+70.22100" -> "hoja N1589"
+	"latitude
+70.22100" -> "latitude
+70.77900"
+	"latitude
+70.77900" -> "hoja N1590"
+	"latitude
+70.77900" -> "latitude
+70.84300"
+	"latitude
+70.84300" -> "hoja N1591"
+	"latitude
+70.84300" -> "latitude
+71.44100"
+	"latitude
+71.44100" -> "hoja N1592"
+	"latitude
+71.44100" -> "latitude
+71.51600"
+	"latitude
+71.51600" -> "hoja N1593"
+	"latitude
+71.51600" -> "latitude
+73.12200"
+	"latitude
+73.12200" -> "hoja N1594"
+	"latitude
+73.12200" -> "latitude
+73.35100"
+	"latitude
+73.35100" -> "hoja N1595"
+	"latitude
+73.35100" -> "latitude
+77.60100"
+	"latitude
+77.60100" -> "hoja N1596"
+	"latitude
+77.60100" -> "hoja N1597"
+}
